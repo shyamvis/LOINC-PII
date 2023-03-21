@@ -1,2 +1,2 @@
-# LOINC-PPI
-LOINC terms that may carry PPI
+# LOINC-PII
+LOINC terms that may carry PII
