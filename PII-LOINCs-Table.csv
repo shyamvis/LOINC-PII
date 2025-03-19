@@ -1,1001 +1,1001 @@
-LOINC_NUM,COMPONENT,PROPERTY,CLASS,Flag
-100282-3,Vaccine exemption certificate,Find,DOC.ADMIN,certificate
-10228-5,Vendor serial number,ID,HEMODYN.ATOM,number
-10251-7,Vendor serial number,ID,HRTRATE.ATOM,number
-10299-6,Vendor serial number,ID,IO.TUBE,number
-10300-2,Vendor serial number,ID,IO.TUBE,number
-10301-0,Vendor serial number,ID,IO.TUBE,number
-10302-8,Vendor serial number,ID,IO.TUBE,number
-10303-6,Vendor serial number,ID,IO.TUBE,number
-10304-4,Vendor serial number,ID,IO.TUBE,number
-10305-1,Vendor serial number,ID,IO.TUBE,number
-10306-9,Vendor serial number,ID,IO.TUBE,number
-10307-7,Vendor serial number,ID,IO.TUBE,number
-10308-5,Vendor serial number,ID,IO.TUBE,number
-10309-3,Vendor serial number,ID,IO.TUBE,number
-10310-1,Vendor serial number,ID,IO.TUBE,number
-10311-9,Vendor serial number,ID,IO.TUBE,number
-10312-7,Vendor serial number,ID,IO.TUBE,number
-10313-5,Vendor serial number,ID,IO.TUBE,number
-10314-3,Vendor serial number,ID,IO.TUBE,number
-10315-0,Vendor serial number,ID,IO.TUBE,number
-10316-8,Vendor serial number,ID,IO.TUBE,number
-10317-6,Vendor serial number,ID,IO.TUBE,number
-10318-4,Vendor serial number,ID,IO.TUBE,number
-10321-8,Vendor serial number,ID,IO_IN.MOLEC,number
-10326-7,Vendor serial number,ID,RESP.ATOM,number
-103595-5,Certificate of medical necessity,Find,ATTACH,certificate
-104531-9,Temporary incapacity certificate,Find,DOC.ONTOLOGY,certificate
-104582-2,Consultation note,Find,DOC.ONTOLOGY,telephone
-104583-0,Consultation note,Find,DOC.ONTOLOGY,telephone
-104584-8,Consultation note,Find,DOC.ONTOLOGY,telephone
-104586-3,Note,Find,DOC.ONTOLOGY,telephone
-104748-9,Medication order stop,Date,MEDS,date
-104782-8,Order start date,Date,CLIN,date
-104791-9,Medication dispense expiry date,Date,MEDS,date
-104807-3,Medication cessation date time,Date,MEDS,date
-104820-6,Medication dispense start date,Date,MEDS,date
-104893-3,Information updated date and time,TmStp,ADMIN,date
-104897-4,Longitude,ID,DOC.ADMIN,"longitude, identifier"
-104906-3,Procedure end date and time,TmStp,ADMIN,date
-104914-7,Date first reaction,Date,ADMIN,date
-104917-0,Communication phone number or email address,EmailAddr,ADMIN,"address, number, phone, email"
-104919-6,Date and time of condition resolution,TmStp,ADMIN,date
-104960-0,Device identifier of unspecified type,ID,ADMIN,identifier
-104962-6,Device review due date,Date,ADMIN,date
-104966-7,Latitude,ID,DOC.ADMIN,"latitude, identifier"
-104968-3,Location end date and time,Date,ADMIN,date
-104969-1,Location start date and time,Date,ADMIN,date
-104970-9,Map URL,Addr,ADMIN,"address, url"
-104988-1,Medical fitness certificate,Find,DOC.ONTOLOGY,certificate
-104989-9,Fetal death certificate,Find,DOC.ONTOLOGY,certificate
-104990-7,Driver license medical fitness certificate,Find,DOC.ONTOLOGY,"license, certificate"
-105039-2,Date of expiration,Date,DOC.ADMIN,date
-105513-6,Date blood drawn for lipid profile,Date,PHENX,date
-105521-9,Breastfeeding start date,Date,H&P.HX,date
-105580-5,Immunization certificate,Find,DOC.ONTOLOGY,certificate
-105581-3,Proof of medical test certificate,Find,DOC.ONTOLOGY,certificate
-105582-1,Recovery certificate,Find,DOC.ONTOLOGY,certificate
-106163-9,Allergy last occurance date,Date,ADMIN,date
-106177-9,Date and time of last update of data,Date,ADMIN,date
-106180-3,End date and time,Date,ADMIN,date
-106181-1,Address line,Addr,ADMIN,address
-106188-6,simple name,Find,ADMIN,name
-106189-4,name status,Find,ADMIN,name
-106190-2,name title,Find,ADMIN,name
-106193-6,Person,ID,ADMIN,identifier
-106197-7,Start date and time,Date,ADMIN,date
-11296-1,ED clinical finding practitioner ID,ID,ADMIN.ID,identifier
-11298-7,ED consultant practitioner ID,ID,ADMIN.ID,identifier
-11312-6,ED procedure practitioner ID,ID,ADMIN.ID,identifier
-11319-1,Ambulance transport unit,ID,ADMIN.ID,identifier
-11368-8,Illness or injury onset date and time,TmStp,H&P.HX,date
-11489-2,Dictating practitioner ID,ID,ATTACH.CLINRPT,identifier
-11513-9,Provider.signing,ID,ADMIN.ID,identifier
-11530-3,Surgeon.assisting,ID,ADMIN.ID,identifier
-11531-1,Surgeon.resident,ID,ADMIN.ID,identifier
-11532-9,Surgeon.staff,ID,ADMIN.ID,identifier
-11976-8,Ovulation date,Date,OB.US,date
-12161-6,Vendor serial number,ID,OB.US,number
-14687-8,Transfusion date,TmStp,BLDBK,date
-18177-6,Vendor serial number,ID,CARD.US,number
-18581-9,Origination site,Addr,ATTACH.AMB,address
-18583-5,Destination site,Addr,ATTACH.AMB,address
-18598-3,Control number identification.claims attachment,ID,ATTACH,number
-18600-7,Primary practitioner ID,ID,ATTACH,identifier
-18602-3,ED practitioner ID,ID,ATTACH,identifier
-18627-0,Date.onset or exacerbation,Date,ATTACH.REHAB.PSYCH,date
-18628-8,Date.start,TmStp,ATTACH.REHAB.PSYCH,date
-18633-8,Author name,Pn,ATTACH.REHAB.PSYCH,name
-18635-3,Signature date,TmStp,ATTACH.REHAB.PSYCH,date
-18639-5,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.PSYCH,date
-18640-3,Start date,Date,ATTACH.REHAB.PSYCH,date
-18641-1,Date.end,Date,ATTACH.REHAB.PSYCH,date
-18642-9,Date range,Cmplx,ATTACH.REHAB.PSYCH,date
-18643-7,Start date,Date,ATTACH.REHAB.PSYCH,date
-18644-5,End date,Date,ATTACH.REHAB.PSYCH,date
-18646-0,Date attending MD referred patient for,Date,ATTACH.REHAB.PSYCH,date
-18647-8,Date attending MD signed,TmStp,ATTACH.REHAB.PSYCH,date
-18648-6,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.PSYCH,date
-18653-6,Estimated date of completion,Date,ATTACH.REHAB.PSYCH,date
-18654-4,Date of last plan of treatment certification,Date,ATTACH.REHAB.PSYCH,date
-18670-0,Date of next planned rehabilitation treatment,Cmplx,ATTACH.REHAB.ABUSE,date
-18694-0,ED consultant practitioner name,Pn,ATTACH.ED,name
-18700-5,ED practitioner name,Pn,ATTACH.ED,name
-18705-4,ED referring practitioner name,Pn,ATTACH.ED,name
-18706-2,ED referring practitioner ID,ID,ATTACH.ED,identifier
-18711-2,Primary practitioner name,Pn,ATTACH.ED,name
-18730-2,Author ID,ID,ATTACH.REHAB.PSYCH,identifier
-18770-8,Dictating practitioner name,Pn,ATTACH.CLINRPT,name
-18771-6,Provider.signing name,Pn,ADMIN,name
-18772-4,Surgeon.resident name,Pn,ATTACH.CLINRPT,name
-18773-2,Surgeon.staff name,Pn,ATTACH.CLINRPT,name
-18774-0,Staff practitioner name,Pn,ATTACH.CLINRPT,name
-18775-7,Staff practitioner ID,ID,ATTACH.CLINRPT,identifier
-18779-9,Comparison.study,TmStp,ATTACH.CLINRPT,date
-18781-5,Ordering practitioner name,Pn,ATTACH.CLINRPT,name
-18812-8,Ordering practitioner,ID,ATTACH.AMB,identifier
-18813-6,Ordering practitioner,Pn,ATTACH.AMB,name
-19086-8,Collection end date,Date,SPEC,date
-19088-4,Collection start date,Date,SPEC,date
-19111-4,Hospital number,ID,ADMIN.ID,number
-19132-0,Name,Pn,CLIN,name
-19139-5,Pathologist name,Pn,CLIN,name
-19151-0,Specimen drawn,TmStp,SPEC,date
-19786-3,Vendor serial number,ID,ENDO.GI,number
-19788-9,Date and time of cleaning,TmStp,ENDO.GI,date
-19821-8,Return visit post GI procedure,TmStp,ENDO.GI,date
-19823-4,Return visit post GI procedure,Tele,ENDO.GI,"number, telephone"
-19825-9,Facility location,Prid,ENDO.GI,identifier
-21112-8,Birth date,TmStp,MISC,date
-21851-1,Address at cancer XXX Dx,Xad,TUMRRGT,address
-21854-5,Date first Dx,Date,TUMRRGT,date
-21863-6,Date last screened,Date,TUMRRGT,date
-21865-1,Hospital.reporting,ID,TUMRRGT,identifier
-21869-3,Hospital admission.first contact,TmStp,TUMRRGT,date
-21870-1,Date of inpatient admission,TmStp,TUMRRGT,date
-21871-9,Date of inpatient discharge,TmStp,TUMRRGT,date
-21875-0,Cancer conference,TmStp,TUMRRGT,date
-21919-6,Date 1st positive Bx,Date,TUMRRGT,date
-21925-3,Date 1st surgery treatment,Date,TUMRRGT,date
-21926-1,Date 1st radiation treatment,Date,TUMRRGT,date
-21927-9,Date 1st chemotherapy treatment,Date,TUMRRGT,date
-21928-7,Date 1st hormone treatment,Date,TUMRRGT,date
-21929-5,Date 1st immunotherapy treatment,Date,TUMRRGT,date
-21930-3,Date 1st other treatment,Date,TUMRRGT,date
-21931-1,Date 1st cancer Rx (any).SEERS,Date,TUMRRGT,date
-21932-9,Date 1st cancer Rx (any).COC,Date,TUMRRGT,date
-21933-7,Date non cancer directed surgery Rx as part of 1st cancer,Date,TUMRRGT,date
-21970-9,2nd course treatment start date,Date,TUMRRGT,date
-21975-8,Date last contact,Date,TUMRRGT,date
-21981-6,Recurrence date,Date,TUMRRGT,date
-22005-3,Date case completed,Date,TUMRRGT,date
-22006-1,Date case last changed,Date,TUMRRGT,date
-22007-9,Date case report exported,Date,TUMRRGT,date
-22008-7,Date case report received,Date,TUMRRGT,date
-22009-5,Date case report loaded,Date,TUMRRGT,date
-22010-3,Date tumor record available,TmStp,TUMRRGT,date
-22018-6,Military patient number,ID,ADMIN.PATIENT.ID,number
-22019-4,Death certificate number,ID,ADMIN.PATIENT.ID,"number, certificate"
-22020-2,Maiden name,Pn,TUMRRGT,name
-22023-6,Last follow-up hospital,ID,ADMIN.ID,identifier
-22024-4,Following registry,ID,ADMIN.ID,identifier
-22025-1,Physician managing,ID,ADMIN.ID,identifier
-22026-9,Physician follow up,ID,ADMIN.ID,identifier
-22027-7,Surgeon primary,ID,ADMIN.ID,identifier
-22028-5,Physician,ID,ADMIN.ID,identifier
-27456-3,Author ID,ID,ATTACH.REHAB.CARDIAC,identifier
-27458-9,Start date,Date,ATTACH.REHAB.CARDIAC,date
-27459-7,End date,Date,ATTACH.REHAB.CARDIAC,date
-27471-2,Date.onset or exacerbation,Date,ATTACH.REHAB.NURS,date
-27472-0,Date.start,TmStp,ATTACH.REHAB.NURS,date
-27475-3,Date.start,TmStp,ATTACH.REHAB.ABUSE,date
-27479-5,Author name,Pn,ATTACH.REHAB.ABUSE,name
-27481-1,Signature date,TmStp,ATTACH.REHAB.ABUSE,date
-27484-5,Date.onset or exacerbation,Date,ATTACH.REHAB.CARDIAC,date
-27485-2,Date.start,TmStp,ATTACH.REHAB.CARDIAC,date
-27487-8,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.ABUSE,date
-27488-6,Start date,Date,ATTACH.REHAB.ABUSE,date
-27489-4,Date.end,Date,ATTACH.REHAB.ABUSE,date
-27490-2,Date range,Cmplx,ATTACH.REHAB.ABUSE,date
-27492-8,Date attending MD referred patient for,Date,ATTACH.REHAB.ABUSE,date
-27493-6,Date attending MD signed,TmStp,ATTACH.REHAB.ABUSE,date
-27494-4,Date rehabilitation professional signed,Date,ATTACH.REHAB.ABUSE,date
-27500-8,Estimated date of completion,Date,ATTACH.REHAB.ABUSE,date
-27501-6,Date of last plan of treatment certification,Date,ATTACH.REHAB.ABUSE,date
-27514-9,Author ID,ID,ATTACH.REHAB.ABUSE,identifier
-27516-4,Start date,Date,ATTACH.REHAB.ABUSE,date
-27517-2,End date,Date,ATTACH.REHAB.ABUSE,date
-27520-6,Author name,Pn,ATTACH.REHAB.CARDIAC,name
-27522-2,Signature date,TmStp,ATTACH.REHAB.CARDIAC,date
-27533-9,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.CARDIAC,date
-27534-7,Start date,Date,ATTACH.REHAB.CARDIAC,date
-27535-4,Date.end,Date,ATTACH.REHAB.CARDIAC,date
-27536-2,Date range,Cmplx,ATTACH.REHAB.CARDIAC,date
-27540-4,Date attending MD referred patient for,Date,ATTACH.REHAB.CARDIAC,date
-27541-2,Date attending MD signed,TmStp,ATTACH.REHAB.CARDIAC,date
-27542-0,Date rehabilitation professional signed,Date,ATTACH.REHAB.CARDIAC,date
-27547-9,Estimated date of completion,Date,ATTACH.REHAB.CARDIAC,date
-27548-7,Date of last plan of treatment certification,Date,ATTACH.REHAB.CARDIAC,date
-27552-9,Author name,Pn,ATTACH.REHAB.NURS,name
-27554-5,Signature date,TmStp,ATTACH.REHAB.NURS,date
-27557-8,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.NURS,date
-27558-6,Start date,Date,ATTACH.REHAB.NURS,date
-27559-4,Date.end,Date,ATTACH.REHAB.NURS,date
-27560-2,Date range,Cmplx,ATTACH.REHAB.NURS,date
-27562-8,Date attending MD referred patient for,Date,ATTACH.REHAB.NURS,date
-27563-6,Date attending MD signed,TmStp,ATTACH.REHAB.NURS,date
-27564-4,Date rehabilitation professional signed,Date,ATTACH.REHAB.NURS,date
-27569-3,Estimated date of completion,Date,ATTACH.REHAB.NURS,date
-27570-1,Date of last plan of treatment certification,Date,ATTACH.REHAB.NURS,date
-27583-4,Author ID,ID,ATTACH.REHAB.NURS,identifier
-27585-9,Start date,Date,ATTACH.REHAB.NURS,date
-27586-7,End date,Date,ATTACH.REHAB.NURS,date
-27598-2,Date.onset or exacerbation,Date,ATTACH.REHAB.OT,date
-27599-0,Date.start,Date,ATTACH.REHAB.OT,date
-27603-0,Author name,Pn,ATTACH.REHAB.OT,name
-27605-5,Signature date,TmStp,ATTACH.REHAB.OT,date
-27608-9,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.OT,date
-27609-7,Start date,Date,ATTACH.REHAB.OT,date
-27610-5,Date.end,Date,ATTACH.REHAB.OT,date
-27611-3,Date range,Cmplx,ATTACH.REHAB.OT,date
-27613-9,Date attending MD referred patient for,Date,ATTACH.REHAB.OT,date
-27614-7,Date attending MD signed,TmStp,ATTACH.REHAB.OT,date
-27615-4,Date rehabilitation professional signed,Date,ATTACH.REHAB.OT,date
-27620-4,Estimated date of completion,Date,ATTACH.REHAB.OT,date
-27621-2,Date of last plan of treatment certification,Date,ATTACH.REHAB.OT,date
-27634-5,Author ID,ID,ATTACH.REHAB.OT,identifier
-27636-0,Start date,Date,ATTACH.REHAB.OT,date
-27637-8,End date,Date,ATTACH.REHAB.OT,date
-27648-5,Start date,Date,ATTACH.REHAB.PT,date
-27649-3,End date,Date,ATTACH.REHAB.PT,date
-27661-8,Date.onset or exacerbation,Date,ATTACH.REHAB.PT,date
-27662-6,Date.start,Date,ATTACH.REHAB.PT,date
-27666-7,Author name,Pn,ATTACH.REHAB.PT,name
-27668-3,Signature date,TmStp,ATTACH.REHAB.PT,date
-27671-7,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.PT,date
-27672-5,Start date,Date,ATTACH.REHAB.PT,date
-27673-3,Date.end,Date,ATTACH.REHAB.PT,date
-27674-1,Date range,Cmplx,ATTACH.REHAB.PT,date
-27676-6,Date attending MD referred patient for,Date,ATTACH.REHAB.PT,date
-27677-4,Date attending MD signed,TmStp,ATTACH.REHAB.PT,date
-27678-2,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.PT,date
-27683-2,Estimated date of completion,Date,ATTACH.REHAB.PT,date
-27684-0,Date of last plan of treatment certification,Date,ATTACH.REHAB.PT,date
-27697-2,Author ID,ID,ATTACH.REHAB.PT,identifier
-27700-4,Date.onset or exacerbation,Date,ATTACH.REHAB.RT,date
-27701-2,Date.start,TmStp,ATTACH.REHAB.RT,date
-27705-3,Author name,Pn,ATTACH.REHAB.RT,name
-27707-9,Signature date,TmStp,ATTACH.REHAB.RT,date
-27710-3,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.RT,date
-27711-1,Start date,Date,ATTACH.REHAB.RT,date
-27712-9,Date.end,Date,ATTACH.REHAB.RT,date
-27713-7,Date range,Cmplx,ATTACH.REHAB.RT,date
-27715-2,Date attending MD referred patient for,Date,ATTACH.REHAB.RT,date
-27716-0,Date attending MD signed,TmStp,ATTACH.REHAB.RT,date
-27717-8,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.RT,date
-27722-8,Estimated date of completion,Date,ATTACH.REHAB.RT,date
-27723-6,Date of last plan of treatment certification,Date,ATTACH.REHAB.RT,date
-27736-8,Author ID,ID,ATTACH.REHAB.RT,identifier
-27738-4,Start date,Date,ATTACH.REHAB.RT,date
-27739-2,End date,Date,ATTACH.REHAB.RT,date
-27751-7,Date.onset or exacerbation,Date,ATTACH.REHAB.SOCIAL,date
-27752-5,Date.start,TmStp,ATTACH.REHAB.SOCIAL,date
-27756-6,Author name,Pn,ATTACH.REHAB.SOCIAL,name
-27758-2,Signature date,TmStp,ATTACH.REHAB.SOCIAL,date
-27761-6,Date range (from_through) described by plan,Cmplx,ATTACH.REHAB.SOCIAL,date
-27762-4,Start date,Date,ATTACH.REHAB.SOCIAL,date
-27763-2,Date.end,Date,ATTACH.REHAB.SOCIAL,date
-27764-0,Date range,Cmplx,ATTACH.REHAB.SOCIAL,date
-27766-5,Date attending MD referred patient for,Date,ATTACH.REHAB.SOCIAL,date
-27767-3,Date attending MD signed,TmStp,ATTACH.REHAB.SOCIAL,date
-27768-1,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.SOCIAL,date
-27773-1,Estimated date of completion,Date,ATTACH.REHAB.SOCIAL,date
-27774-9,Date of last plan of treatment certification,Date,ATTACH.REHAB.SOCIAL,date
-27787-1,Author ID,ID,ATTACH.REHAB.SOCIAL,identifier
-27789-7,Start date,Date,ATTACH.REHAB.SOCIAL,date
-27790-5,End date,Date,ATTACH.REHAB.SOCIAL,date
-27801-0,Date.onset or exacerbation,Date,ATTACH.REHAB.ABUSE,date
-28775-5,Physician,ID,EYE.GLASSES,identifier
-29163-3,Date.onset or exacerbation,Date,ATTACH.REHAB.SPEECH,date
-29164-1,Date start,Date,ATTACH.REHAB.SPEECH,date
-29172-4,Date attending MD referred patient for,Date,ATTACH.REHAB.SPEECH,date
-29173-2,Date attending MD signed,TmStp,ATTACH.REHAB.SPEECH,date
-29175-7,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.SPEECH,date
-29179-9,Estimated date of completion,Date,ATTACH.REHAB.SPEECH,date
-29180-7,Date of last plan of treatment certification,Date,ATTACH.REHAB.SPEECH,date
-29188-0,Author ID,ID,ATTACH.REHAB.SPEECH,identifier
-29189-8,Author name,Pn,ATTACH.REHAB.SPEECH,name
-29191-4,Date end,Date,ATTACH.REHAB.SPEECH,date
-29200-3,Signature date,TmStp,ATTACH.REHAB.SPEECH,date
-29201-1,Start date,Date,ATTACH.REHAB.SPEECH,date
-29203-7,Date range,Cmplx,ATTACH.REHAB.SPEECH,date
-29204-5,End date,Date,ATTACH.REHAB.SPEECH,date
-29205-2,Start date,Date,ATTACH.REHAB.SPEECH,date
-29742-4,Date last dose,TmStp,DRUGDOSE,date
-30573-0,Date of wound healing,Date,CLIN,date
-30907-0,Date of next planned rehabilitation treatment,Cmplx,ATTACH.REHAB.ABUSE,date
-30908-8,Next planned treatment start date,Date,ATTACH.REHAB.ABUSE,date
-30909-6,Next planned treatment end date,Date,ATTACH.REHAB.ABUSE,date
-30944-3,Date of vaccination temporary contraindication &or precaution expiration,Date,VACCIN,date
-30946-8,Date.vaccination contraindication &or precaution effective,Date,VACCIN,date
-30947-6,Date form completed,Date,ADMIN,date
-30952-6,Date and time of vaccination,TmStp,VACCIN,date
-30953-4,Date and time of onset of vaccination adverse event,TmStp,VACCIN,date
-30976-5,Date received,TmStp,VACCIN,date
-30980-7,Date vaccine due,Date,VACCIN,date
-30981-5,Earliest date to give,Date,VACCIN,date
-31035-9,Date of other vaccinations given within 4W prior to the date of vaccine causing adverse event,Date,VACCIN,date
-31211-6,Date of death,TmStp,TUMRRGT,date
-33067-0,Conception date,Date,OB.US,date
-33882-2,Collection date,Date,SPEC,date
-34970-4,Date ultrasound,Date,MISC,date
-38201-0,Pain onset,TmStp,H&P.HX,date
-38884-3,Vendor serial number,ID,DEVICES,number
-39161-5,Date next screen visit,Date,ATTACH.CPHS,date
-39255-5,Date previous screen visit,Date,ATTACH.CPHS,date
-39268-8,"Follow-up (referred to) provider &or specialist, name",Pn,ATTACH.CPHS,name
-39270-4,"Follow-up (referred to) provider &or specialist, address",Addr,ATTACH.CPHS,address
-39271-2,"Follow-up (referred to) provider &or specialist, phone",Tele,ATTACH.CPHS,phone
-39276-1,"Follow-up (referred to) program, address",Addr,ATTACH.CPHS,address
-39277-9,"Follow-up (referred to) program, phone",Tele,ATTACH.CPHS,phone
-39281-1,"Responsible party, name",Pn,ATTACH.CPHS,name
-39282-9,"Responsible party, home phone number",Tele,ATTACH.CPHS,"number, phone"
-39283-7,"Responsible party, work number",Tele,ATTACH.CPHS,number
-39285-2,Name,Pn,ADMIN,name
-39289-4,"Follow-up (referred to) provider &or specialist, appointment date",Date,ATTACH.CPHS,date
-39290-2,"Follow-up (referred to) program, appointment date",Date,ATTACH.CPHS,date
-39808-1,Date 1st most definitive surgery Rx for,TmStp,TUMRRGT,date
-39809-9,Date 1st systemic treatment,TmStp,TUMRRGT,date
-41393-0,Collection date,TmStp,SPEC,date
-41394-8,Collection date,TmStp,SPEC,date
-41395-5,Collection date,TmStp,SPEC,date
-41899-6,Vendor serial number,ID,DEVICES,number
-41913-5,Vendor serial number,ID,DEVICES,number
-41917-6,Vendor serial number,ID,DEVICES,number
-41928-3,Vendor serial number,ID,DEVICES,number
-41933-3,Vendor serial number,ID,DEVICES,number
-41937-4,Vendor serial number,ID,DEVICES,number
-41963-0,Vendor serial number,ID,DEVICES,number
-41968-9,Vendor serial number,ID,DEVICES,number
-41978-8,Vendor serial number,ID,DEVICES,number
-42029-9,Date of conclusive diagnosis,TmStp,TUMRRGT,date
-42031-5,Date of diagnosis of multiple tumors,TmStp,TUMRRGT,date
-42062-0,County--current,Prid,TUMRRGT,county
-42077-8,Phone number,Tele,ADMIN.PATIENT,"number, phone"
-42106-5,Archive facility identification number,ID,ADMIN.ID,number
-42117-2,Date of surgical discharge,TmStp,TUMRRGT,date
-42120-6,Date radiation ended,TmStp,TUMRRGT,date
-42127-1,Name of follow-up contact,Pn,TUMRRGT,name
-42130-5,Latitude,Angle,TUMRRGT,latitude
-42131-3,Longitude,Angle,TUMRRGT,longitude
-42781-5,Surgical operation date,TmStp,TUMRRGT,date
-43157-7,Vendor serial number,ID,DEVICES,number
-44951-2,Physician NPI,ID,ADMIN.ID,identifier
-44952-0,Surgeon primary NPI,ID,ADMIN.ID,identifier
-44953-8,Physician follow up NPI,ID,ADMIN.ID,identifier
-44954-6,Physician managing NPI,ID,ADMIN.ID,identifier
-44955-3,Archive facility identification number NPI,ID,ADMIN.FACILITY,number
-44956-1,Following registry NPI,ID,ADMIN.ID,identifier
-44959-5,Hospital.reporting NPI,ID,ADMIN.ID,identifier
-45234-2,Date eligible and selected to start HIV Rx,Date,ART,date
-45235-9,Date original clinic HIV Rx start,Date,ART,date
-45237-5,Date lost to HIV Rx follow-up,Date,ART,date
-45238-3,Date lost to HIV Rx therapy,Date,ART,date
-45240-9,Isoniazid therapy start date,Date,ART,date
-45242-5,Tuberculosis treatment start date,Date,ART,date
-45250-8,HIV confirmation facility,Addr,ART,address
-45253-2,HIV Rx prior clinic transferred from,Addr,ART,address
-45255-7,HIV Rx clinic transferred to,Addr,ART,address
-45257-3,Date dropped from HIV Rx,Date,ART,date
-45285-4,Date and time,TmStp,DRUGDOSE,date
-45346-4,Date tick removed,Date,MICRO,date
-45347-2,Date tick attached,Date,MICRO,date
-45348-0,Date tick acquired,Date,MICRO,date
-45351-4,Date of skin test,TmStp,CHALSKIN,date
-45352-2,Date skin test interpreted,TmStp,CHALSKIN,date
-45353-0,Date of analysis,TmStp,MISC,date
-45354-8,Date next dose,Date,VACCIN,date
-45355-5,Date Rh immune globulin given,Date,BLDBK,date
-45376-1,Date of transfusion reaction,TmStp,BLDBK,date
-45392-8,First name,Pn,ADMIN.PATIENT,name
-45394-4,Last name,Pn,ADMIN.PATIENT,name
-45395-1,Name suffix,Pn,ADMIN.PATIENT,name
-45396-9,Social Security number,ID,ADMIN.PATIENT.ID,"number, social security, identifier"
-45397-7,Medicare or comparable number,ID,ADMIN.PATIENT.ID,number
-45398-5,State provider number,ID,ADMIN.FACILITY,number
-45399-3,Federal provider number,ID,SURVEY.MDS,number
-45400-9,Medicaid number,ID,ADMIN.PATIENT.ID,number
-45401-7,Postal code,Loc,ADMIN.PATIENT.DEMOG,postal
-45427-2,Date background information form completed,Date,SURVEY.MDS,date
-45453-8,Date of last day of MDS observation period,Date,SURVEY.MDS,date
-45455-3,Date of reentry to facility,Date,SURVEY.MDS,date
-45966-9,Social Security & Medicare numbers,-,PANEL.SURVEY.CMS,"number, social security"
-45967-7,Facility provider numbers,-,PANEL.SURVEY.MDS,number
-46106-1,Medical record number,ID,ADMIN.PATIENT.ID,"number, identifier"
-46250-7,Vaccination take-response date,Date,VACCIN,date
-46493-3,Medicaid provider number,ID,SURVEY.OASIS,"number, age"
-46495-8,Branch number,ID,SURVEY.CMS,"number, age"
-46496-6,Agency patient number,ID,SURVEY.CMS,"number, age"
-46497-4,Start of care date,Date,SURVEY.CMS,date
-46498-2,Resumption of care date,Date,SURVEY.CMS,date
-46501-3,Date assessment information completed,Date,SURVEY.CMS,date
-46503-9,Most recent inpatient discharge date,Date,SURVEY.CMS,date
-46581-5,Date of last home visit,Date,SURVEY.CMS,date
-46582-3,"Discharge, transfer, death date",Date,SURVEY.CMS,date
-46697-9,Date,Date,SURVEY.RFC,date
-47240-7,Date determined medically eligible to start HIV Rx,Date,ART,date
-47241-5,Date determined medically eligible and ready to start HIV Rx,Date,ART,date
-49070-6,Specimen drawn,TmStp,SPEC,date
-49088-8,Sonographer name,Pn,OB.US,name
-49089-6,Sonographer,ID,ADMIN.ID,identifier
-49542-4,Date and time of pheresis procedure,TmStp,BLDBK,date
-49548-1,Date referral lab test sent,TmStp,MISC,date
-49832-9,Specimen drawn^1st specimen,TmStp,SPEC,date
-49833-7,Specimen drawn^2nd specimen,TmStp,SPEC,date
-50786-3,Date of entry,TmStp,SURVEY.CMS,date
-51953-8,Collection date,TmStp,SPEC,date
-51999-1,Time ambulance arrived at scene,TmStp,ATTACH.AMB,date
-52000-7,Origination site latitude,Angle,ATTACH.AMB,latitude
-52001-5,Origination site longitude,Angle,ATTACH.AMB,longitude
-52002-3,Destination site latitude,Angle,ATTACH.AMB,latitude
-52003-1,Destination site longitude,Angle,ATTACH.AMB,longitude
-52010-6,Other patient name,Pn,ATTACH.AMB,name
-52014-8,Receiving individual accepting responsibility for patient,ID,ATTACH.AMB,identifier
-52023-9,Origination site name and address,Cmplx,ATTACH.AMB,"address, name"
-52026-2,Destination site name & address,Cmplx,ATTACH.AMB,"address, name"
-52069-2,Tax ID number - IRS form W9 attachment,Find,DOC.ADMIN,number
-52076-7,Date range,DateRange,ATTACH.REHAB.ABUSE,date
-52077-5,Date range,DateRange,ATTACH.REHAB.ABUSE,date
-52080-9,Referring person name,Pn,ATTACH.REHAB.ABUSE,name
-52081-7,Referring person identifier,ID,ATTACH.REHAB.ABUSE,identifier
-52082-5,Date patient referred for treatment,Date,ATTACH.REHAB.ABUSE,date
-52088-2,Date range certifying the plan of care,DateRange,ATTACH.REHAB.ABUSE,date
-52090-8,Actual start of care date,Date,ATTACH.REHAB.ABUSE,date
-52106-2,Date range of next planned treatment,DateRange,ATTACH.REHAB.ABUSE,date
-52139-3,Date.onset or exacerbation,Date,ATTACH.REHAB.PULM,date
-52140-1,Date range,DateRange,ATTACH.REHAB.PULM,date
-52144-3,Author name,Pn,ATTACH.REHAB.PULM,name
-52145-0,Author ID,ID,ATTACH.REHAB.PULM,identifier
-52147-6,Date range,DateRange,ATTACH.REHAB.PULM,date
-52151-8,Referring person name,Pn,ATTACH.REHAB.PULM,name
-52152-6,Referring person identifier,ID,ATTACH.REHAB.PULM,identifier
-52153-4,Date patient referred for treatment,Date,ATTACH.REHAB.PULM,date
-52156-7,Date attending MD signed,TmStp,ATTACH.REHAB.PULM,date
-52159-1,Date rehabilitation professional signed,TmStp,ATTACH.REHAB.PULM,date
-52167-4,Date range certifying the plan of care,DateRange,ATTACH.REHAB.PULM,date
-52169-0,Actual start of care date,Date,ATTACH.REHAB.PULM,date
-52189-8,Date range,DateRange,ATTACH.REHAB.CARDIAC,date
-52190-6,Date range,DateRange,ATTACH.REHAB.CARDIAC,date
-52193-0,Referring person name,Pn,ATTACH.REHAB.CARDIAC,name
-52194-8,Referring person identifier,ID,ATTACH.REHAB.CARDIAC,identifier
-52195-5,Date patient referred for treatment,Date,ATTACH.REHAB.CARDIAC,date
-52200-3,Date range certifying the plan of care,DateRange,ATTACH.REHAB.CARDIAC,date
-52202-9,Actual start of care date,Date,ATTACH.REHAB.CARDIAC,date
-52216-9,Date range,DateRange,ATTACH.REHAB.SOCIAL,date
-52217-7,Date range,DateRange,ATTACH.REHAB.SOCIAL,date
-52220-1,Referring person name,Pn,ATTACH.REHAB.SOCIAL,name
-52221-9,Referring person identifier,ID,ATTACH.REHAB.SOCIAL,identifier
-52222-7,Date patient referred for treatment,Date,ATTACH.REHAB.SOCIAL,date
-52227-6,Date range certifying the plan of care,DateRange,ATTACH.REHAB.SOCIAL,date
-52229-2,Actual start of care date,Date,ATTACH.REHAB.SOCIAL,date
-52243-3,Date range,DateRange,ATTACH.REHAB.OT,date
-52246-6,Referring person name,Pn,ATTACH.REHAB.OT,name
-52247-4,Referring person identifier,ID,ATTACH.REHAB.OT,identifier
-52251-6,Date range certifying the plan of care,DateRange,ATTACH.REHAB.OT,date
-52253-2,Actual start of care date,Date,ATTACH.REHAB.OT,date
-52266-4,Defined school year,DateRange,ATTACH.REHAB.OT,date
-52269-8,Date patient referred for treatment,Date,ATTACH.REHAB.OT,date
-52271-4,Date range,DateRange,ATTACH.REHAB.PT,date
-52272-2,Date range,DateRange,ATTACH.REHAB.PT,date
-52275-5,Referring person name,Pn,ATTACH.REHAB.PT,name
-52276-3,Referring person identifier,ID,ATTACH.REHAB.PT,identifier
-52277-1,Date patient referred for treatment,Date,ATTACH.REHAB.PT,date
-52282-1,Date range certifying the plan of care,DateRange,ATTACH.REHAB.PT,date
-52284-7,Actual start of care date,Date,ATTACH.REHAB.PT,date
-52297-9,Defined school year,DateRange,ATTACH.REHAB.PT,date
-52301-9,Date range,DateRange,ATTACH.REHAB.PSYCH,date
-52303-5,Date range,DateRange,ATTACH.REHAB.PSYCH,date
-52306-8,Referring person name,Pn,ATTACH.REHAB.PSYCH,name
-52307-6,Referring person identifier,ID,ATTACH.REHAB.PSYCH,identifier
-52308-4,Date patient referred for treatment,Date,ATTACH.REHAB.PSYCH,date
-52316-7,Date range certifying the plan of care,DateRange,ATTACH.REHAB.PSYCH,date
-52318-3,Actual start of care date,Date,ATTACH.REHAB.PSYCH,date
-52333-2,Date range,DateRange,ATTACH.REHAB.RT,date
-52334-0,Date range,DateRange,ATTACH.REHAB.RT,date
-52337-3,Referring person name,Pn,ATTACH.REHAB.RT,name
-52338-1,Referring person identifier,ID,ATTACH.REHAB.RT,identifier
-52339-9,Date patient referred for treatment,Date,ATTACH.REHAB.RT,date
-52344-9,Date range certifying the plan of care,DateRange,ATTACH.REHAB.RT,date
-52346-4,Actual start of care date,Date,ATTACH.REHAB.RT,date
-52356-3,Date range,DateRange,ATTACH.REHAB.NURS,date
-52357-1,Date range,DateRange,ATTACH.REHAB.NURS,date
-52360-5,Referring person name,Pn,ATTACH.REHAB.NURS,name
-52361-3,Referring person identifier,ID,ATTACH.REHAB.NURS,identifier
-52362-1,Date patient referred for treatment,Date,ATTACH.REHAB.NURS,date
-52367-0,Date range certifying the plan of care,DateRange,ATTACH.REHAB.NURS,date
-52369-6,Actual start of care date,Date,ATTACH.REHAB.NURS,date
-52383-7,Date range,DateRange,ATTACH.REHAB.SPEECH,date
-52384-5,Date range,DateRange,ATTACH.REHAB.SPEECH,date
-52387-8,Referring person name,Pn,ATTACH.REHAB.SPEECH,name
-52388-6,Referring person identifier,ID,ATTACH.REHAB.SPEECH,identifier
-52389-4,Date patient referred for treatment,Date,ATTACH.REHAB.SPEECH,date
-52394-4,Date range certifying the plan of care,DateRange,ATTACH.REHAB.SPEECH,date
-52396-9,Actual start of care date,Date,ATTACH.REHAB.SPEECH,date
-52409-0,Defined school year,DateRange,ATTACH.REHAB.SPEECH,date
-52413-2,Date range,DateRange,ATTACH.REHAB.OT,date
-52455-3,Admission date,TmStp,ADMIN,date
-52456-1,Assessment reference date,Date,SURVEY.CMS,date
-52458-7,Name,Pn,SURVEY.CARE,name
-52459-5,CMS certification number,ID,SURVEY.CARE,number
-52461-1,Middle name,Pn,ADMIN.PATIENT,name
-52462-9,Nickname,Pn,ADMIN.PATIENT,nickname
-52463-7,Patient Identification Number or Provider Account Number,ID,ADMIN.PATIENT.ID,number
-52525-3,Discharge date,TmStp,H&P.HX,date
-52526-1,Attending physician name,Pn,CLIN,name
-52531-1,Provider city,Loc,CLIN,city
-52539-4,Prior postal code,Loc,ADMIN.PATIENT.DEMOG,postal
-52584-0,Date of ulcer measurement,Date,SURVEY.CARE,date
-52796-0,Planned stop date,Date,SURVEY.CARE,date
-52827-3,Facility unique identifier panel,-,PANEL.SURVEY.NMMDS,identifier
-52828-1,Federal provider name,ID,SURVEY.NMMDS,name
-52831-5,Postal code,Loc,ADMIN.FACILITY,postal
-52832-3,Survey reporting period start date,Date,SURVEY.NMMDS,date
-52833-1,Survey reporting period end date,Date,SURVEY.NMMDS,date
-53245-7,Driver license,Find,DOC.ONTOLOGY,license
-53599-7,ZIP code of prior primary residence,Loc,SURVEY.MDS,zip
-53719-1,Date of death - Canada,TmStp,TUMRRGT,date
-54124-3,Birth date,Date,SURVEY.USSGFHT,date
-54125-0,Name,Pn,ADMIN.PATIENT,name
-54138-3,Name,Pn,SURVEY.USSGFHT,name
-54503-8,Legal name of patient,-,PANEL.SURVEY.CMS,name
-54504-6,Social Security and Medicare numbers,-,SURVEY.MDS,"number, social security"
-54581-4,Facility provider numbers,-,PANEL.ADMIN,number
-54592-1,Previous assessment reference date for significant correction,Date,SURVEY.CMS,date
-54593-9,Assessment reference date - observation end date,Date,PANEL.SURVEY.CMS,date
-54595-4,Start date of most recent Medicare stay,Date,SURVEY.CMS,date
-54596-2,End date of most recent Medicare stay,Date,SURVEY.CMS,date
-54883-4,Date of most recent routine pressure ulcer assessment,TmStp,SURVEY.MDS,date
-54888-3,Date of onset of pressure injuries onset in this facility - oldest or only stage 3,Date,SURVEY.MDS,date
-54889-1,Date of onset of pressure ulcers onset in this facility - newest stage 3,TmStp,SURVEY.MDS,date
-54891-7,Date of onset of pressure injuries onset in this facility - oldest or only stage 4,Date,SURVEY.MDS,date
-54892-5,Date of onset of pressure ulcers onset in this facility - newest stage 4,TmStp,SURVEY.MDS,date
-54948-5,Date of onset of pressure ulcers onset in this facility - oldest or only unstageable due to coverage of wound bed by slough &or eschar,TmStp,SURVEY.MDS,date
-54949-3,Date of onset of pressure ulcers onset in this facility - newest unstageable due to coverage of wound bed by slough &or eschar,TmStp,SURVEY.MDS,date
-55025-1,Start date of speech language pathology and audiology services,Date,SURVEY.CMS,date
-55026-9,End date of speech language pathology and audiology services,Date,SURVEY.CMS,date
-55027-7,Start date of occupational therapy,Date,SURVEY.CMS,date
-55028-5,End date of occupational therapy,Date,SURVEY.CMS,date
-55029-3,Start date of physical therapy,Date,SURVEY.CMS,date
-55030-1,End date of physical therapy,Date,SURVEY.CMS,date
-55031-9,Start date of respiratory therapy,Date,SURVEY.MDS,date
-55032-7,End date of respiratory therapy,Date,SURVEY.MDS,date
-55033-5,Start date of psychological therapy by any licensed mental health professional,TmStp,SURVEY.MDS,"date, license"
-55034-3,End date of psychological therapy by any licensed mental health professional,TmStp,SURVEY.MDS,"date, license"
-55037-6,Start date of recreational and music therapy,TmStp,SURVEY.MDS,date
-55038-4,End date of recreational and music therapy,TmStp,SURVEY.MDS,date
-55209-1,Date and time of most recent arrival in U.S.,TmStp,PUBLICHEALTH,date
-55218-2,Date of actual exposure to blood &or body fluid,Date,PUBLICHEALTH,date
-55257-0,Date of last Clostridium tetani immunization,Date,H&P.HX,date
-55282-8,Date symptoms of pregnancy first noted,Date,H&P.HX,date
-55400-6,Date of last eye examination,Date,CLIN,date
-56049-0,PhenX measure - current age,-,PANEL.PHENX,age
-56118-3,Proxy name,Pn,PHENX,name
-56155-5,Date referral lab test results received,TmStp,MISC,date
-56795-8,Account number,ID,ADMIN.PATIENT.ID,"number, identifier"
-56799-0,Address,Addr,ADMIN.PATIENT,address
-56800-6,Date and time ED consult request initiated,TmStp,ED,date
-56801-4,Date and time ED consult starts,TmStp,ED,date
-56802-2,Primary care provider,ID,ADMIN.ID,identifier
-56803-0,ED attending physician,ID,ADMIN.ID,identifier
-56804-8,ED nurse,ID,ADMIN.ID,identifier
-56805-5,ED accepting or admitting provider,ID,ADMIN.ID,identifier
-56806-3,ED transferring provider,ID,ADMIN.ID,identifier
-56807-1,ED transferring facility,ID,ADMIN.FACILITY,identifier
-56808-9,ED accepting or admitting facility,ID,ADMIN.FACILITY,identifier
-56809-7,ED tech,ID,ADMIN.ID,identifier
-56811-3,Primary care clinic or system,ID,ADMIN.FACILITY,identifier
-56812-1,Provider who accepted patient in transfer to another facility,ID,ADMIN.ID,identifier
-56855-0,Provider assuming ultimate responsibility for care for patient upon ED disposition,ID,ADMIN.ID,identifier
-56856-8,Provider assuming care for patient upon ED disposition,ID,ADMIN.ID,identifier
-56859-2,Date and time of ED departure,TmStp,ED,date
-56861-8,Name,Pn,ED,name
-56862-6,Address,Addr,ED,address
-56863-4,Phone number,Tele,ADMIN,"number, phone"
-57060-6,Estimated date of delivery,Find,CLIN,date
-57063-0,Delivery date,Date,OB.US,date
-57064-8,Delivery date,Date,OB.US,date
-57065-5,Quickening date,Date,OB.US,date
-57066-3,Date fundal height reaches umbilicus,Date,OB.US,date
-57070-5,Date next clinic visit,Date,H&P.HX,date
-57201-6,Date of Physician-ordered Start of Care (Resumption of Care),Date,SURVEY.CMS,date
-57202-4,Date of Referral,Date,SURVEY.CMS,date
-58052-2,Date pressure injury first identified,Date,SURVEY.CMS,date
-58123-1,Date of oldest stage 2 pressure injury,Date,SURVEY.CMS,date
-58131-4,Date of influenza vaccination,Date,CLIN,date
-58195-9,Date of Care Area Assessment (CAA) information,Date,SURVEY.MDS,date
-58234-6,Date of trauma or procedure,Date,PHENX,date
-58236-1,Date of myocardial infarction,Date,PHENX,date
-58237-9,Name,ID,PHENX,name
-58269-2,Date of first episode of atrial fibrillation,Date,PHENX,date
-58276-7,Ever had outpatient test(s) performed for deep vein thrombosis,TmStp,PHENX,date
-58278-3,Date of deep vein thrombosis diagnosis,Date,PHENX,date
-58284-1,Date of pulmonary embolus diagnosis,Date,PHENX,date
-58307-0,Date of onset of chest discomfort,Date,PHENX,date
-58734-5,Collection date,TmStp,SPEC,date
-59509-0,Date case completed.COC,Date,TUMRRGT,date
-59510-8,Date case initiated,Date,TUMRRGT,date
-59777-3,Latest date to give immunization,Date,VACCIN,date
-59778-1,Date when overdue for immunization,Date,VACCIN,date
-59853-2,Pathology specimen collection date 1,TmStp,TUMRRGT,date
-59854-0,Pathology specimen collection date 2,TmStp,TUMRRGT,date
-59855-7,Pathology specimen collection date 3,TmStp,TUMRRGT,date
-59856-5,Pathology specimen collection date 4,TmStp,TUMRRGT,date
-59857-3,Pathology specimen collection date 5,TmStp,TUMRRGT,date
-60431-4,Date of previous biopsy,Date,H&P.HX,date
-60432-2,Date of previous PAP smear,Date,H&P.HX,date
-61099-8,Collection date^3rd specimen,TmStp,SPEC,date
-61100-4,Collection date^2nd specimen,TmStp,SPEC,date
-62317-3,Date of last blood product transfusion,TmStp,H&P.HX,date
-62323-1,Post-discharge provider ID,ID,CHEM,identifier
-62324-9,Post-discharge provider name,Pn,CHEM,name
-62326-4,Post-discharge provider practice name,ID,CHEM,name
-62327-2,Post-discharge provider practice address,Addr,CHEM,address
-62328-0,Post-discharge provider practice phone number,Tele,ADMIN,"number, phone"
-62330-6,Birth hospital facility name,ID,ADMIN.FACILITY,name
-62331-4,Birth hospital facility address,Addr,ADMIN.FACILITY,address
-62332-2,Birth hospital facility phone number,Tele,ADMIN.FACILITY,"number, phone"
-63497-2,Current street number,Loc,PHENX,number
-63498-0,Current street name,Loc,PHENX,name
-63499-8,Current apartment number,Loc,PHENX,number
-63500-3,Current city,Loc,PHENX,city
-63502-9,Current zip code,Loc,PHENX,zip
-63726-4,From what date did you live in the residence,Date,ADMIN.PATIENT,date
-63727-2,To what date did you live in the residence,Date,ADMIN.PATIENT,date
-63728-0,"What is the residence address, street - crosstreets, city, state or landmark",Find,PHENX,"address, city"
-63758-7,What was the location of this company,Addr,PHENX,address
-63780-1,Who is the oldest or what is the first name of your next brother or sister,Find,PHENX,name
-63931-0,Date of diagnosis,Date,PHENX,date
-63936-9,Start date of treatment or therapy,Date,H&P.HX,date
-63939-3,End date of treatment or therapy,Date,H&P.HX,date
-63944-3,Date of cancer recurrence,Date,PHENX,date
-63963-3,Date of end of pregnancy,Date,PHENX,date
-63968-2,Date of major illness or surgery,Date,PHENX,date
-64010-2,Latitude for the residence,Angle,PHENX,latitude
-64011-0,Longitude for the residence,Angle,PHENX,longitude
-64297-5,Death certificate,Find,DOC.ONTOLOGY,certificate
-64435-1,Medication time and date^pre exercise,TmStp,PHENX,date
-64557-2,When were your childs tonsils removed,TmStp,PHENX,date
-64583-8,Date your child has taken this medication,Date,PHENX,date
-64586-1,Date the sleep disorder started,Date,PHENX,date
-64589-5,"Date the psychological, psychiatric, emotional, or behavioral problem started",Date,PHENX,date
-64601-8,Date of review,Date,PHENX,date
-64604-2,Technician ID,ID,ADMIN,identifier
-64712-3,On what date did that pregnancy end,Date,PHENX,date
-64727-1,Date of birth or loss,TmStp,PHENX,date
-64773-5,When did your child receive this treatment for other eye or vision problems,TmStp,PHENX,date
-64786-7,When was your child first diagnosed as having an eye problem,TmStp,PHENX,date
-64787-5,When was your child first diagnosed as having amblyopia,TmStp,PHENX,date
-64788-3,When was your child first diagnosed as having strabismus,TmStp,PHENX,date
-64790-9,When did your child first have this type of operation,TmStp,PHENX,date
-64791-7,When did your child first start wearing an eye patch,TmStp,PHENX,date
-64869-1,City,Find,PHENX,city
-64879-0,Date when first prescribed,Date,PHENX,date
-64881-6,Date stopped,Date,PHENX,date
-64889-9,When did you last have the strength of your glasses checked,TmStp,PHENX,date
-64891-5,When were you last able to do this,TmStp,PHENX,date
-64991-3,Date of observation,Date,PHENX,date
-65222-2,Symptom onset,TmStp,H&P.PX,date
-65647-0,City,Loc,ADMIN.FACILITY,city
-65648-8,Zip - post code,Loc,PHENX,zip
-65650-4,Email address,EmailAddr,ADMIN.FACILITY,"address, email"
-65651-2,Phone number,Tele,ADMIN.FACILITY,"number, phone"
-65652-0,Testing facility name,ID,ADMIN.FACILITY,name
-65667-8,When did your child receive this treatment for doctor reported vision problem,TmStp,PHENX,date
-65719-7,When did the first stroke occur,TmStp,PHENX,date
-65833-6,Address,Addr,SURVEY.ESRD,address
-65838-5,Date submitted,Date,SURVEY.ESRD,date
-65840-1,Principal result interpreter phone number,Tele,SURVEY.ESRD,"number, phone"
-65844-3,Date of observation,Date,MISC,date
-66165-2,Last ate or drank anything other than plain water,TmStp,H&P.HX,date
-66167-8,When did you have coffee or tea with cream and sugar,TmStp,PHENX,date
-66169-4,"When did you have alcohol, such as beer, wine, or liquor",TmStp,PHENX,date
-66171-0,"When did you have gum, breath mints, lozenges, or cough drops, or other cough or cold remedies",TmStp,PHENX,date
-66173-6,"When did you have antacids, laxatives, or anti-diarrheals",TmStp,PHENX,date
-66183-5,When did you have dietary supplements such as vitamins and minerals,TmStp,PHENX,date
-66302-1,Participant ID,ID,ADMIN.PATIENT.ID,identifier
-66311-2,Date participant returned actigraph to clinic,Date,PHENX,date
-66395-5,Booster date,Date,PHENX,date
-66398-9,Trip start,TmStp,PHENX,date
-66399-7,Trip end,TmStp,PHENX,date
-66432-6,Date first Dx,Date,PHENX,date
-66479-7,"If you were not born in USA, indicate as closely as possible the date you first arrived here",Date,PHENX,date
-66946-5,Data retrieval completed,TmStp,PHENX,date
-66947-3,Date last reaction,Date,PHENX,date
-67148-7,Adjudication date by MD fracture coordinator,Date,PHENX,date
-67152-9,Date abstracted,Date,PHENX,date
-67153-7,Abstractor ID,ID,ADMIN.ID,identifier
-67154-5,Nosologist ID,ID,ADMIN.ID,identifier
-67290-7,Date of complication,Date,PHENX,date
-67422-6,Name of your relative that have already participated in this investigation,Find,PHENX,name
-67517-3,Last oral intake,TmStp,NEMSIS,date
-67712-0,Center - CTR - ID number,ID,PHENX,number
-67713-8,Diagnosing provider,Addr,CLIN,address
-67714-6,Diagnosing provider phone number,Tele,CLIN,"number, phone"
-67723-7,Date of health-related event,Date,CLIN,date
-67782-3,Surgical operation date,Date,PHENX,date
-67878-9,Facility name,ID,SURVEY.ESRD,name
-68330-0,CMS certification number - CCN,ID,SURVEY.ESRD,number
-68333-4,Date return to dialysis after failed transplant,Date,SURVEY.ESRD,date
-68335-9,Self-dialysis training facility name,ID,SURVEY.ESRD,name
-68339-1,Date self-dialysis training completion,Date,SURVEY.ESRD,date
-68340-9,Attending physician phone number,Tele,SURVEY.ESRD,"number, phone"
-68349-0,Date last dialysis treatment,Date,SURVEY.ESRD,date
-68351-6,Date most recent transplant,Date,SURVEY.ESRD,date
-68355-7,Date signed,TmStp,SURVEY.ESRD,date
-68358-1,Date chronic dialysis began,Date,SURVEY.ESRD,date
-68362-3,Date self-dialysis training began,Date,SURVEY.ESRD,date
-68444-9,Date chronic dialysis began at current facility,Date,SURVEY.ESRD,date
-68445-6,Date transplant,Date,SURVEY.ESRD,date
-68446-4,Transplant facility name,ID,SURVEY.ESRD,name
-68447-2,Date transplant admission,TmStp,SURVEY.ESRD,date
-68490-2,Transplant preparation facility name,ID,SURVEY.ESRD,name
-68491-0,Self-dialysis training physician name,Pn,SURVEY.ESRD,name
-68492-8,Date last prenatal visit,Date,SURVEY.CDC,date
-68499-3,Date last live birth,Date,SURVEY.CDC,date
-68500-8,Date last other pregnancy outcome,Date,SURVEY.CDC,date
-68963-8,Collection date & time,TmStp,SPEC,date
-68989-3,Performing laboratory,Addr,MISC,address
-68994-3,Performing laboratory name,ID,MISC,name
-68995-0,Person completing form name,Pn,SURVEY.ESRD,name
-68997-6,City,Loc,SURVEY.ESRD,city
-68998-4,U.S. standard certificate of live birth - 2003 revision,-,PANEL.SURVEY.CDC,certificate
-69044-6,Date first prenatal visit,Date,SURVEY.CDC,date
-69409-1,U.S. standard certificate of death - 2003 revision,-,PANEL.SURVEY.CDC,certificate
-69417-4,CMS certification number,ID,ADMIN.FACILITY,number
-69434-9,Location of death name,ID,SURVEY.CDC,name
-69435-6,Street address where death occurred if not facility,Addr,SURVEY.CDC,address
-69439-8,Death certifier,Addr,SURVEY.CDC,address
-69445-5,Injury date,Date,SURVEY.CDC,date
-69446-3,Injury date comment,Txt,SURVEY.CDC,date
-69454-7,Death date comment,Find,SURVEY.CDC,date
-69993-4,Vendor serial number,ID,DEVICES,number
-70952-7,Date of peritoneal dialysis adequacy measurement,Date,SURVEY.ESRD,date
-71230-7,Birth certificate,Find,DOC.ONTOLOGY,certificate
-71463-4,Date of infection onset,Date,SURVEY.ESRD,date
-71464-2,Date first prescribed,TmStp,SURVEY.ESRD,date
-71465-9,Date prescription changed,TmStp,SURVEY.ESRD,date
-71466-7,Date prescription stopped,TmStp,SURVEY.ESRD,date
-71472-5,Date of blood culture,TmStp,SURVEY.ESRD,date
-71474-1,Date of infection hospitalization,Date,SURVEY.ESRD,date
-71479-0,Date access infection confirmed,Date,SURVEY.ESRD,date
-71503-7,Date opened,Date,SURVEY.ESRD,date
-71504-5,Date closed,Date,SURVEY.ESRD,date
-71505-2,Date changed ownership,Date,SURVEY.ESRD,date
-71506-0,Date initially certified by medicare,Date,SURVEY.ESRD,date
-71507-8,Fax number,Tele,SURVEY.ESRD,"number, fax"
-71509-4,Phone number extension,Tele,SURVEY.ESRD,"number, phone"
-71523-5,Date personnel record submitted,Date,SURVEY.ESRD,date
-71526-8,Personnel employment name,Find,SURVEY.ESRD,name
-71530-0,Business name,ID,SURVEY.ESRD,name
-71534-2,Phone number,Tele,SURVEY.ESRD,"number, phone"
-71540-9,Date personnel record submission,TmStp,SURVEY.ESRD,date
-71723-1,Cell phone number,Tele,ADMIN,"number, phone"
-71724-9,Home phone number,Tele,ADMIN,"number, phone"
-71725-6,Business phone number extension,Tele,ADMIN,"number, phone"
-71726-4,Business phone number,Tele,ADMIN,"number, phone"
-71727-2,Fax number,Tele,ADMIN,"number, fax"
-71729-8,Nine-digit postal code,Loc,ADMIN,postal
-71730-6,Five-digit postal code,Loc,ADMIN,postal
-71732-2,City,Addr,ADMIN,city
-71736-3,Name prefix,Pn,ADMIN,name
-71737-1,Name suffix,Pn,ADMIN,name
-71739-7,First name,Pn,ADMIN,name
-71740-5,Last name,Pn,ADMIN,name
-71742-1,Date most recent record submitted,Date,SURVEY.ESRD,date
-71750-4,Primary contact phone number extension,Tele,SURVEY.ESRD,"number, phone"
-71751-2,Primary contact phone number,Tele,SURVEY.ESRD,"number, phone"
-71752-0,Primary contact first name,Pn,SURVEY.ESRD,name
-71753-8,Primary contact last name,Pn,SURVEY.ESRD,name
-71766-0,Primary contact email,EmailAddr,SURVEY.ESRD,email
-72048-2,Date arteriovenous fistula usable,Date,SURVEY.ESRD,date
-72049-0,Date dialysis session,Date,SURVEY.ESRD,date
-72051-6,Date catheter removal,Date,SURVEY.ESRD,date
-72052-4,Date catheter placement,Date,SURVEY.ESRD,date
-72053-2,Date arteriovenous fistula creation,Date,SURVEY.ESRD,date
-72054-0,Date change of dialysis access type,Date,SURVEY.ESRD,date
-72074-8,Date last formal post dialysis weight,Date,SURVEY.ESRD,date
-72078-9,Date of echocardiogram,Date,SURVEY.ESRD,date
-72081-3,Date of sodium education,Date,SURVEY.ESRD,date
-72187-8,Date tetanus vaccine given,Date,SURVEY.GNHLTH,date
-72486-4,Laboratory director name,Pn,MISC,name
-73770-0,Name of facility infant transferred to,ID,SURVEY.CDC,name
-73777-5,Name of facility mother transferred from,ID,SURVEY.CDC,name
-74010-0,Date quit tobacco smoking,Date,H&P.HX,date
-74014-2,Last drank alcohol,TmStp,H&P.HX,date
-74015-9,Date recorded,TmStp,H&P.HX,date
-74024-1,Family member identifier,ID,ADMIN.ID,identifier
-74025-8,Mother identifier,ID,ADMIN.ID,identifier
-74026-6,Father identifier,ID,ADMIN.ID,identifier
-74548-9,Reporter phone number,Tele,SURVEY.AHRQ,"number, phone"
-74555-4,Event discovery date & time,TmStp,SURVEY.AHRQ,date
-74695-8,Nurse name,Pn,CLIN,name
-74715-4,Vendor serial number,ID,DEVICES,number
-75092-7,Birth date,Date,PATH,date
-75167-7,Date of most recent non-treponemal test,Date,SURVEY.CDC,date
-75170-1,Date first non-treponemal test,Date,SURVEY.CDC,date
-75173-5,Date of first treponemal test,Date,SURVEY.CDC,date
-75176-8,Date of most recent treponemal test,Date,SURVEY.CDC,date
-75182-6,Date of first syphilis treatment during pregnancy,Date,SURVEY.CDC,date
-75188-3,Date of first reactive non-treponemal test,Date,SURVEY.CDC,date
-75191-7,Date of first reactive treponemal test,Date,SURVEY.CDC,date
-75200-6,Date first prenatal visit,Date,SURVEY.CDC,date
-75203-0,Date last menstrual period^pre delivery,Date,SURVEY.CDC,date
-75329-3,Date of intrauterine device insertion,Date,CLIN,date
-75360-8,Date of supracervical hysterectomy,Date,CLIN,date
-75361-6,Date of total hysterectomy,Date,CLIN,date
-75437-4,Note,Find,DOC.ONTOLOGY,license
-75519-9,Encounter identifier,ID,SURVEY.PCORNET,identifier
-75524-9,Facility identifier,ID,SURVEY.PCORNET,identifier
-75526-4,Internal identifier,ID,SURVEY.PCORNET,identifier
-75711-2,Date of autopsy,Date,MISC,date
-76417-5,First Name,Pn,ADMIN,name
-76419-1,Last name,Pn,ADMIN,name
-76423-3,Date of first visit,Date,H&P.HX,date
-76425-8,Date of onset,Date,H&P.HX,date
-76426-6,Start date for episode of care,Date,APTA,date
-76427-4,Visit date,Date,H&P.HX,date
-76429-0,Physical therapy discharge date,Date,H&P.HX,date
-76435-7,Identifier,ID,ADMIN.PATIENT.ID,identifier
-76458-9,Email address,EmailAddr,ADMIN.PATIENT,"address, email"
-76469-6,Name,ID,ADMIN,name
-76695-6,Postal code,Loc,ADMIN,zip
-76696-4,Name,ID,ADMIN.FACILITY,"name, identifier"
-77970-2,Date of initial report,TmStp,SURVEY.CDC,date
-77972-8,Earliest date reported to county,TmStp,SURVEY.CDC,"date, county"
-77973-6,Earliest date reported to state,TmStp,SURVEY.CDC,date
-77975-1,Earliest date of diagnosis,Date,H&P.HX,date
-77976-9,Illness or injury end date,Date,H&P.HX,date
-79216-8,Date education program assigned,Date,CLIN,date
-79217-6,Date education program started,Date,CLIN,date
-79218-4,Date education program completed,Date,CLIN,date
-79219-2,Date education program expires,Date,CLIN,date
-80265-2,Date of last bowel movement,Date,H&P.PX,date
-80331-2,Date and time of last void,TmStp,H&P.PX,date
-80395-7,Date of gestational age estimate,Date,CLIN,"age, date"
-80406-2,Date and time of initial encounter,TmStp,H&P.HX,date
-80410-4,Date and time of transfer departure,TmStp,ED,date
-80427-8,Employer name,ID,H&P.HX,"name, identifier"
-80428-6,Past employer name,ID,H&P.HX,"name, identifier"
-80429-4,Employer address,Addr,ADMIN.PATIENT,address
-80430-2,Past employer address,Addr,ADMIN.PATIENT,address
-80431-0,Employer city,Loc,ADMIN.PATIENT,city
-80432-8,Past employer city,Loc,ADMIN.PATIENT,city
-80616-6,Date and time pronounced dead,TmStp,SURVEY.CDC,"date, certificate"
-80903-8,Birth certificate number,ID,SURVEY.CDC,certificate
-80907-9,Death registration date,Date,SURVEY.CDC,date
-80909-5,Father's last name,Pn,SURVEY.CDC,name
-80911-1,Death pronouncer,ExtendedID,SURVEY.CDC,identifier
-80989-7,Date of procedure,Date,CLIN,date
-80992-1,Date and time of surgery,TmStp,CLIN,date
-80993-9,Date and time of first balloon inflation,TmStp,CARD.PROC,date
-81266-9,Date of fever onset,Date,H&P.HX,date
-81268-5,Date of rash onset,Date,H&P.HX,date
-81954-0,Date of death,Date,ADMIN.PATIENT,date
-81956-5,Date and time of death,TmStp,ADMIN.PATIENT,date
-82157-9,Birth date,Date,ADMIN,date
-82749-3,Date diagnosis confirmed,Date,H&P.HX,date
-82752-7,Date travel started,Date,H&P.HX,date
-82756-8,Date of blood donation,Date,H&P.HX,date
-82758-4,Date of previous diagnosis,Date,H&P.HX,date
-82760-0,Date of splenectomy,Date,H&P.HX,date
-82765-9,Date prescription dispensed,Date,MEDS,date
-82772-5,Lab result date reported,Date,LABORDERS,date
-82778-2,Trial enrollment date,Date,CLINTRIAL,date
-82779-0,Trial participation end date,Date,CLINTRIAL,date
-82785-7,Lab order date,Date,LABORDERS,date
-82787-3,Participant identifier,ID,CLINTRIAL,identifier
-82789-9,Trial early withdrawal date,Date,CLINTRIAL,date
-84188-2,Note,Find,DOC.ONTOLOGY,license
-84189-0,Note,Find,DOC.ONTOLOGY,license
-85585-8,Date of condition onset,Date,SURVEY.GNHLTH,date
-85674-0,Date of serology test^pre pregnancy,Date,H&P.HX,date
-85692-2,Year previously tested for rubella virus immunity,Date,VACCIN,date
-85695-5,Prior condition onset year,Date,H&P.HX,date
-85704-5,Year of previous delivery in the U.S.,Date,H&P.HX,date
-85706-0,Date of exposure to individual with confirmed illness,Date,H&P.HX,date
-85729-2,Date of fever onset,Date,H&P.HX,date
-85732-6,Date of rash onset,Date,H&P.HX,date
-85734-2,Date of last evaluation,Date,H&P.HX,date
-85931-4,Date of salivary gland swelling onset,Date,H&P.HX,date
-85932-2,Date of cough onset,Date,H&P.HX,date
-8598-5,Comparison.study,TmStp,EKG.ATOM,date
-86345-6,U.S. standard certificate of death - recommended 2003 revision set,-,PANEL.DOC,certificate
-86347-2,U.S. standard certificate of live birth - recommended 2003 revision set,-,PANEL.DOC,certificate
-86470-2,Most recent inpatient discharge date in the last 14D,Date,SURVEY.CMS,date
-8649-6,Hospital discharge date,TmStp,H&P.HX,date
-8656-1,Hospital admission date,TmStp,H&P.HX,date
-8665-2,Date last menstrual period,Date,H&P.HX,date
-86771-3,Date therapy regimen resumed,Date,SURVEY.CMS,date
-86948-7,Date treatment or therapy started,Date,H&P.HX,date
-87216-8,Date on existing record to be modified or inactivated,-,PANEL.SURVEY.CMS,date
-87219-2,Attesting individual first name,Pn,SURVEY.CMS,name
-87220-0,Attesting individual last name,Pn,SURVEY.CMS,name
-87222-6,Attestation date,Date,SURVEY.CMS,date
-87226-7,Legal name of patient - first and last,-,PANEL.ADMIN,name
-8723-9,Surgical operation note date,TmStp,H&P.SURG PROC,date
-87286-1,Birth attendant,ExtendedID,ADMIN,identifier
-87287-9,Birth certifier,ExtendedID,ADMIN,identifier
-87288-7,Date of birth certification,Date,ADMIN.PATIENT,date
-87289-5,Date of fetal death registration,Date,ADMIN,date
-87290-3,Date of Social Security Number request,Date,SURVEY.CDC,"number, social security, date"
-87297-8,Birth registration date,Date,SURVEY.CDC,date
-87510-4,Date of retirement,Date,H&P.HX,date
-87511-2,Combat zone &or hazardous duty work dates,DateRange,H&P.HX,date
-87720-9,Postal code,Loc,ADMIN,postal
-87721-7,County of residence,Loc,ADMIN.PATIENT.DEMOG,county
-88030-2,Date quit smokeless tobacco,Date,H&P.HX,date
-88062-5,Chemotherapy infusion stop date,Date,IO_IN.INFUS,date
-88063-3,Chemotherapy infusion start date,Date,IO_IN.INFUS,date
-88072-4,Dispatch center,ID,TRAUMA,identifier
-88088-0,EMS transport destination name,ID,H&P.HX,"name, identifier"
-88298-5,Date of last attempted gradual dose reduction,Date,SURVEY.CMS,date
-88300-9,Date physician documented GDR as clinically contraindicated,Date,SURVEY.CMS,date
-88374-4,Chemotherapy infusion start & stop date and time panel,-,PANEL.IO,date
-89008-7,Station name,ID,TRAUMA,"name, identifier"
-89010-3,EMS physician name,Pn,TRAUMA,name
-89011-1,EMS assistant name,Pn,TRAUMA,name
-89058-2,Email address,EmailAddr,ADMIN,"address, email"
-89060-8,Phone number,Tele,ADMIN,"number, phone"
-89068-1,Date aspirin discontinued,Date,H&P.HX,date
-89202-6,County,Loc,ADMIN.FACILITY,county
-89550-8,Middle name,Pn,ADMIN,name
-89601-9,Proof of encounter certificate,Find,DOC.ONTOLOGY,certificate
-90052-2,Address,Addr,ADMIN,address
-90053-0,Phone number,Tele,ADMIN,"number, phone"
-90054-8,Email address,EmailAddr,ADMIN,"address, email"
-90057-1,Contact name,Pn,ADMIN,name
-90946-5,Date of laboratory phone call to provider to communicate test result,Date,ADMIN.PATIENT,"phone, date"
-91008-3,Date and time of deaths assessment,TmStp,PUBLICHEALTH,date
-91022-4,Date and time of risk assessment,TmStp,PUBLICHEALTH,date
-91103-2,Date next report due,TmStp,DOC.MISC,date
-91381-4,Date medication started,Date,MEDS,date
-91382-2,Date medication stopped,Date,MEDS,date
-91559-5,Date of arrival at travel destination,Date,H&P.HX,date
-91560-3,Date of departure from travel destination,Date,H&P.HX,date
-91583-5,Date and time of public health emergency,TmStp,ADMIN,date
-91584-3,Date and time rumor record was released,TmStp,PUBLICHEALTH,date
-91696-5,Response team name,ID,ADMIN,name
-91697-3,Name,Pn,ADMIN,name
-91702-1,Shelter name,ID,ADMIN.FACILITY,"name, identifier"
-91703-9,Shelter address,Addr,ADMIN.FACILITY,address
-91714-6,Date of interview,Date,ADMIN,date
-91877-1,Date and time report was received,TmStp,DOC.MISC,date
-91880-5,Date and time of risk assessment meeting,TmStp,ADMIN,date
-91892-0,Address,Addr,ADMIN,address
-91893-8,Email address,EmailAddr,ADMIN,"address, email"
-91894-6,Phone number,Tele,ADMIN,"number, phone"
-92009-0,Birth date,Date,ADMIN,date
-92028-0,Supervisor name,Pn,ADMIN,name
-92029-8,Supervisor email address,EmailAddr,ADMIN,"address, email"
-92030-6,Supervisor address,Addr,ADMIN,address
-92032-2,Supervisor phone number,Tele,ADMIN,"number, phone"
-92045-4,Name,Pn,ADMIN,name
-93275-6,Date of most lethal suicide attempt,Date,SURVEY.CSSRS,date
-93301-0,Date of initial or first suicide attempt,Date,SURVEY.CSSRS,date
-93302-8,Date of most recent suicide attempt,Date,SURVEY.CSSRS,date
-93857-1,Date and time of obstetric delivery,TmStp,OBGYN,date
-94130-2,Body disposition facility name,ID,ADMIN.FACILITY,"name, identifier"
-94132-8,Funeral facility name,ID,ADMIN.FACILITY,"name, identifier"
-94135-1,Funeral service licensee identifier,ID,ADMIN.FACILITY,"identifier, license"
-94459-5,Date treatment prescribed,Date,H&P.HX,date
-94648-3,Date of case confirmation,Date,PUBLICHEALTH,date
-94652-5,Known exposure date,Date,H&P.HX,date
-94664-0,Anticipated discharge date,Date,H&P.HX,date
-95366-1,Date of first positive specimen collection,Date,SPEC,date
-95367-9,Intensive care unit admission date,Date,H&P.HX,date
-95368-7,Intensive care unit discharge date,Date,H&P.HX,date
-95382-8,Date and time of symptom resolution,TmStp,CLIN,date
-95386-9,Date and time of most recent contact with confirmed case,Date,H&P.PX,date
-95727-4,Name,Pn,ADMIN,name
-95728-2,Address,Addr,ADMIN,address
-95730-8,Surviving spouse name,Pn,ADMIN,name
-95731-6,Maiden name,Pn,ADMIN,name
-95884-3,Data collected,Date,PUBLICHEALTH,date
-95895-9,Start date,Date,PUBLICHEALTH,date
-96676-2,Employer phone number,Tele,ADMIN.PATIENT,"number, phone"
-96677-0,Address,Addr,ADMIN,address
-97499-8,Proof of COVID-19 recovery certificate,Find,DOC.ADMIN,certificate
-97500-3,Proof of COVID-19 immunization or negative status certificate,Find,DOC.ADMIN,certificate
-97845-2,Name panel,-,PANEL.ADMIN,name
-97846-0,Name use,Find,ADMIN,name
-97847-8,Last name,Pn,ADMIN,name
-97848-6,First name,Pn,ADMIN,name
-97849-4,Name prefix,Pn,ADMIN,name
-97850-2,Name suffix,Pn,ADMIN,name
-9851-7,Vendor serial number,ID,DEVICES,number
-9854-1,Vendor serial number,ID,DEVICES,number
-9858-2,Vendor serial number,ID,DEVICES,number
-9865-7,Vendor serial number,ID,DEVICES,number
-99350-1,Date of first infection onset,Date,SURVEY.COVID,date
-99951-6,Postal code,Loc,ADMIN,postal
+LOINC_NUM,COMPONENT,PROPERTY,Identifier Category,CLASS,Flag
+100282-3,Vaccine exemption certificate,Find,Other,DOC.ADMIN,certificate
+10228-5,Vendor serial number,ID,Other,HEMODYN.ATOM,number
+10251-7,Vendor serial number,ID,Other,HRTRATE.ATOM,number
+10299-6,Vendor serial number,ID,Other,IO.TUBE,number
+10300-2,Vendor serial number,ID,Other,IO.TUBE,number
+10301-0,Vendor serial number,ID,Other,IO.TUBE,number
+10302-8,Vendor serial number,ID,Other,IO.TUBE,number
+10303-6,Vendor serial number,ID,Other,IO.TUBE,number
+10304-4,Vendor serial number,ID,Other,IO.TUBE,number
+10305-1,Vendor serial number,ID,Other,IO.TUBE,number
+10306-9,Vendor serial number,ID,Other,IO.TUBE,number
+10307-7,Vendor serial number,ID,Other,IO.TUBE,number
+10308-5,Vendor serial number,ID,Other,IO.TUBE,number
+10309-3,Vendor serial number,ID,Other,IO.TUBE,number
+10310-1,Vendor serial number,ID,Other,IO.TUBE,number
+10311-9,Vendor serial number,ID,Other,IO.TUBE,number
+10312-7,Vendor serial number,ID,Other,IO.TUBE,number
+10313-5,Vendor serial number,ID,Other,IO.TUBE,number
+10314-3,Vendor serial number,ID,Other,IO.TUBE,number
+10315-0,Vendor serial number,ID,Other,IO.TUBE,number
+10316-8,Vendor serial number,ID,Other,IO.TUBE,number
+10317-6,Vendor serial number,ID,Other,IO.TUBE,number
+10318-4,Vendor serial number,ID,Other,IO.TUBE,number
+10321-8,Vendor serial number,ID,Other,IO_IN.MOLEC,number
+10326-7,Vendor serial number,ID,Other,RESP.ATOM,number
+103595-5,Certificate of medical necessity,Find,Patient,ATTACH,certificate
+104531-9,Temporary incapacity certificate,Find,Other,DOC.ONTOLOGY,certificate
+104582-2,Consultation note,Find,Other,DOC.ONTOLOGY,telephone
+104583-0,Consultation note,Find,Other,DOC.ONTOLOGY,telephone
+104584-8,Consultation note,Find,Other,DOC.ONTOLOGY,telephone
+104586-3,Note,Find,Other,DOC.ONTOLOGY,telephone
+104748-9,Medication order stop,Date,Patient,MEDS,date
+104782-8,Order start date,Date,Patient,CLIN,date
+104791-9,Medication dispense expiry date,Date,Other,MEDS,date
+104807-3,Medication cessation date time,Date,Patient,MEDS,date
+104820-6,Medication dispense start date,Date,Other,MEDS,date
+104893-3,Information updated date and time,TmStp,Patient,ADMIN,date
+104897-4,Longitude,ID,Other,DOC.ADMIN,"longitude, identifier"
+104906-3,Procedure end date and time,TmStp,Patient,ADMIN,date
+104914-7,Date first reaction,Date,Patient,ADMIN,date
+104917-0,Communication phone number or email address,EmailAddr,Other,ADMIN,"address, number, phone, email"
+104919-6,Date and time of condition resolution,TmStp,Patient,ADMIN,date
+104960-0,Device identifier of unspecified type,ID,Patient,ADMIN,identifier
+104962-6,Device review due date,Date,Patient,ADMIN,date
+104966-7,Latitude,ID,Other,DOC.ADMIN,"latitude, identifier"
+104968-3,Location end date and time,Date,Patient,ADMIN,date
+104969-1,Location start date and time,Date,Patient,ADMIN,date
+104970-9,Map URL,Addr,Other,ADMIN,"address, url"
+104988-1,Medical fitness certificate,Find,Other,DOC.ONTOLOGY,certificate
+104989-9,Fetal death certificate,Find,Other,DOC.ONTOLOGY,certificate
+104990-7,Driver license medical fitness certificate,Find,Other,DOC.ONTOLOGY,"license, certificate"
+105039-2,Date of expiration,Date,Other,DOC.ADMIN,date
+105513-6,Date blood drawn for lipid profile,Date,Patient,PHENX,date
+105521-9,Breastfeeding start date,Date,Patient,H&P.HX,date
+105580-5,Immunization certificate,Find,Other,DOC.ONTOLOGY,certificate
+105581-3,Proof of medical test certificate,Find,Other,DOC.ONTOLOGY,certificate
+105582-1,Recovery certificate,Find,Other,DOC.ONTOLOGY,certificate
+106163-9,Allergy last occurance date,Date,Patient,ADMIN,date
+106177-9,Date and time of last update of data,Date,Patient,ADMIN,date
+106180-3,End date and time,Date,Patient,ADMIN,date
+106181-1,Address line,Addr,Other,ADMIN,address
+106188-6,simple name,Find,Other,ADMIN,name
+106189-4,name status,Find,Other,ADMIN,name
+106190-2,name title,Find,Other,ADMIN,name
+106193-6,Person,ID,Patient,ADMIN,identifier
+106197-7,Start date and time,Date,Other,ADMIN,date
+11296-1,ED clinical finding practitioner ID,ID,Provider,ADMIN.ID,identifier
+11298-7,ED consultant practitioner ID,ID,Provider,ADMIN.ID,identifier
+11312-6,ED procedure practitioner ID,ID,Provider,ADMIN.ID,identifier
+11319-1,Ambulance transport unit,ID,Other,ADMIN.ID,identifier
+11368-8,Illness or injury onset date and time,TmStp,Patient,H&P.HX,date
+11489-2,Dictating practitioner ID,ID,Provider,ATTACH.CLINRPT,identifier
+11513-9,Provider.signing,ID,Other,ADMIN.ID,identifier
+11530-3,Surgeon.assisting,ID,Other,ADMIN.ID,identifier
+11531-1,Surgeon.resident,ID,Other,ADMIN.ID,identifier
+11532-9,Surgeon.staff,ID,Other,ADMIN.ID,identifier
+11976-8,Ovulation date,Date,Patient,OB.US,date
+12161-6,Vendor serial number,ID,Other,OB.US,number
+14687-8,Transfusion date,TmStp,Patient,BLDBK,date
+18177-6,Vendor serial number,ID,Other,CARD.US,number
+18581-9,Origination site,Addr,Other,ATTACH.AMB,address
+18583-5,Destination site,Addr,Other,ATTACH.AMB,address
+18598-3,Control number identification.claims attachment,ID,Patient,ATTACH,number
+18600-7,Primary practitioner ID,ID,Provider,ATTACH,identifier
+18602-3,ED practitioner ID,ID,Provider,ATTACH,identifier
+18627-0,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.PSYCH,date
+18628-8,Date.start,TmStp,Other,ATTACH.REHAB.PSYCH,date
+18633-8,Author name,Pn,Other,ATTACH.REHAB.PSYCH,name
+18635-3,Signature date,TmStp,Other,ATTACH.REHAB.PSYCH,date
+18639-5,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.PSYCH,date
+18640-3,Start date,Date,Other,ATTACH.REHAB.PSYCH,date
+18641-1,Date.end,Date,Other,ATTACH.REHAB.PSYCH,date
+18642-9,Date range,Cmplx,Other,ATTACH.REHAB.PSYCH,date
+18643-7,Start date,Date,Other,ATTACH.REHAB.PSYCH,date
+18644-5,End date,Date,Other,ATTACH.REHAB.PSYCH,date
+18646-0,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.PSYCH,date
+18647-8,Date attending MD signed,TmStp,Other,ATTACH.REHAB.PSYCH,date
+18648-6,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.PSYCH,date
+18653-6,Estimated date of completion,Date,Other,ATTACH.REHAB.PSYCH,date
+18654-4,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.PSYCH,date
+18670-0,Date of next planned rehabilitation treatment,Cmplx,Other,ATTACH.REHAB.ABUSE,date
+18694-0,ED consultant practitioner name,Pn,Provider,ATTACH.ED,name
+18700-5,ED practitioner name,Pn,Provider,ATTACH.ED,name
+18705-4,ED referring practitioner name,Pn,Provider,ATTACH.ED,name
+18706-2,ED referring practitioner ID,ID,Provider,ATTACH.ED,identifier
+18711-2,Primary practitioner name,Pn,Provider,ATTACH.ED,name
+18730-2,Author ID,ID,Other,ATTACH.REHAB.PSYCH,identifier
+18770-8,Dictating practitioner name,Pn,Provider,ATTACH.CLINRPT,name
+18771-6,Provider.signing name,Pn,Other,ADMIN,name
+18772-4,Surgeon.resident name,Pn,Other,ATTACH.CLINRPT,name
+18773-2,Surgeon.staff name,Pn,Other,ATTACH.CLINRPT,name
+18774-0,Staff practitioner name,Pn,Provider,ATTACH.CLINRPT,name
+18775-7,Staff practitioner ID,ID,Provider,ATTACH.CLINRPT,identifier
+18779-9,Comparison.study,TmStp,Other,ATTACH.CLINRPT,date
+18781-5,Ordering practitioner name,Pn,Provider,ATTACH.CLINRPT,name
+18812-8,Ordering practitioner,ID,Other,ATTACH.AMB,identifier
+18813-6,Ordering practitioner,Pn,Other,ATTACH.AMB,name
+19086-8,Collection end date,Date,Other,SPEC,date
+19088-4,Collection start date,Date,Other,SPEC,date
+19111-4,Hospital number,ID,Other,ADMIN.ID,number
+19132-0,Name,Pn,Other,CLIN,name
+19139-5,Pathologist name,Pn,Provider,CLIN,name
+19151-0,Specimen drawn,TmStp,Other,SPEC,date
+19786-3,Vendor serial number,ID,Other,ENDO.GI,number
+19788-9,Date and time of cleaning,TmStp,Other,ENDO.GI,date
+19821-8,Return visit post GI procedure,TmStp,Patient,ENDO.GI,date
+19823-4,Return visit post GI procedure,Tele,Patient,ENDO.GI,"number, telephone"
+19825-9,Facility location,Prid,Other,ENDO.GI,identifier
+21112-8,Birth date,TmStp,Patient,MISC,date
+21851-1,Address at cancer XXX Dx,Xad,Patient,TUMRRGT,address
+21854-5,Date first Dx,Date,Other,TUMRRGT,date
+21863-6,Date last screened,Date,Other,TUMRRGT,date
+21865-1,Hospital.reporting,ID,Other,TUMRRGT,identifier
+21869-3,Hospital admission.first contact,TmStp,Other,TUMRRGT,date
+21870-1,Date of inpatient admission,TmStp,Other,TUMRRGT,date
+21871-9,Date of inpatient discharge,TmStp,Other,TUMRRGT,date
+21875-0,Cancer conference,TmStp,Other,TUMRRGT,date
+21919-6,Date 1st positive Bx,Date,Other,TUMRRGT,date
+21925-3,Date 1st surgery treatment,Date,Other,TUMRRGT,date
+21926-1,Date 1st radiation treatment,Date,Other,TUMRRGT,date
+21927-9,Date 1st chemotherapy treatment,Date,Other,TUMRRGT,date
+21928-7,Date 1st hormone treatment,Date,Other,TUMRRGT,date
+21929-5,Date 1st immunotherapy treatment,Date,Other,TUMRRGT,date
+21930-3,Date 1st other treatment,Date,Other,TUMRRGT,date
+21931-1,Date 1st cancer Rx (any).SEERS,Date,Other,TUMRRGT,date
+21932-9,Date 1st cancer Rx (any).COC,Date,Other,TUMRRGT,date
+21933-7,Date non cancer directed surgery Rx as part of 1st cancer,Date,Other,TUMRRGT,date
+21970-9,2nd course treatment start date,Date,Other,TUMRRGT,date
+21975-8,Date last contact,Date,Patient,TUMRRGT,date
+21981-6,Recurrence date,Date,Other,TUMRRGT,date
+22005-3,Date case completed,Date,Other,TUMRRGT,date
+22006-1,Date case last changed,Date,Other,TUMRRGT,date
+22007-9,Date case report exported,Date,Other,TUMRRGT,date
+22008-7,Date case report received,Date,Other,TUMRRGT,date
+22009-5,Date case report loaded,Date,Other,TUMRRGT,date
+22010-3,Date tumor record available,TmStp,Other,TUMRRGT,date
+22018-6,Military patient number,ID,Patient,ADMIN.PATIENT.ID,number
+22019-4,Death certificate number,ID,Patient,ADMIN.PATIENT.ID,"number, certificate"
+22020-2,Maiden name,Pn,Patient,TUMRRGT,name
+22023-6,Last follow-up hospital,ID,Other,ADMIN.ID,identifier
+22024-4,Following registry,ID,Other,ADMIN.ID,identifier
+22025-1,Physician managing,ID,Patient,ADMIN.ID,identifier
+22026-9,Physician follow up,ID,Patient,ADMIN.ID,identifier
+22027-7,Surgeon primary,ID,Patient,ADMIN.ID,identifier
+22028-5,Physician,ID,Patient,ADMIN.ID,identifier
+27456-3,Author ID,ID,Other,ATTACH.REHAB.CARDIAC,identifier
+27458-9,Start date,Date,Other,ATTACH.REHAB.CARDIAC,date
+27459-7,End date,Date,Other,ATTACH.REHAB.CARDIAC,date
+27471-2,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.NURS,date
+27472-0,Date.start,TmStp,Other,ATTACH.REHAB.NURS,date
+27475-3,Date.start,TmStp,Other,ATTACH.REHAB.ABUSE,date
+27479-5,Author name,Pn,Other,ATTACH.REHAB.ABUSE,name
+27481-1,Signature date,TmStp,Other,ATTACH.REHAB.ABUSE,date
+27484-5,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.CARDIAC,date
+27485-2,Date.start,TmStp,Other,ATTACH.REHAB.CARDIAC,date
+27487-8,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.ABUSE,date
+27488-6,Start date,Date,Other,ATTACH.REHAB.ABUSE,date
+27489-4,Date.end,Date,Other,ATTACH.REHAB.ABUSE,date
+27490-2,Date range,Cmplx,Other,ATTACH.REHAB.ABUSE,date
+27492-8,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.ABUSE,date
+27493-6,Date attending MD signed,TmStp,Other,ATTACH.REHAB.ABUSE,date
+27494-4,Date rehabilitation professional signed,Date,Other,ATTACH.REHAB.ABUSE,date
+27500-8,Estimated date of completion,Date,Other,ATTACH.REHAB.ABUSE,date
+27501-6,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.ABUSE,date
+27514-9,Author ID,ID,Other,ATTACH.REHAB.ABUSE,identifier
+27516-4,Start date,Date,Other,ATTACH.REHAB.ABUSE,date
+27517-2,End date,Date,Other,ATTACH.REHAB.ABUSE,date
+27520-6,Author name,Pn,Other,ATTACH.REHAB.CARDIAC,name
+27522-2,Signature date,TmStp,Other,ATTACH.REHAB.CARDIAC,date
+27533-9,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.CARDIAC,date
+27534-7,Start date,Date,Other,ATTACH.REHAB.CARDIAC,date
+27535-4,Date.end,Date,Other,ATTACH.REHAB.CARDIAC,date
+27536-2,Date range,Cmplx,Other,ATTACH.REHAB.CARDIAC,date
+27540-4,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.CARDIAC,date
+27541-2,Date attending MD signed,TmStp,Other,ATTACH.REHAB.CARDIAC,date
+27542-0,Date rehabilitation professional signed,Date,Other,ATTACH.REHAB.CARDIAC,date
+27547-9,Estimated date of completion,Date,Other,ATTACH.REHAB.CARDIAC,date
+27548-7,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.CARDIAC,date
+27552-9,Author name,Pn,Other,ATTACH.REHAB.NURS,name
+27554-5,Signature date,TmStp,Other,ATTACH.REHAB.NURS,date
+27557-8,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.NURS,date
+27558-6,Start date,Date,Other,ATTACH.REHAB.NURS,date
+27559-4,Date.end,Date,Other,ATTACH.REHAB.NURS,date
+27560-2,Date range,Cmplx,Other,ATTACH.REHAB.NURS,date
+27562-8,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.NURS,date
+27563-6,Date attending MD signed,TmStp,Other,ATTACH.REHAB.NURS,date
+27564-4,Date rehabilitation professional signed,Date,Other,ATTACH.REHAB.NURS,date
+27569-3,Estimated date of completion,Date,Other,ATTACH.REHAB.NURS,date
+27570-1,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.NURS,date
+27583-4,Author ID,ID,Other,ATTACH.REHAB.NURS,identifier
+27585-9,Start date,Date,Other,ATTACH.REHAB.NURS,date
+27586-7,End date,Date,Other,ATTACH.REHAB.NURS,date
+27598-2,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.OT,date
+27599-0,Date.start,Date,Other,ATTACH.REHAB.OT,date
+27603-0,Author name,Pn,Other,ATTACH.REHAB.OT,name
+27605-5,Signature date,TmStp,Other,ATTACH.REHAB.OT,date
+27608-9,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.OT,date
+27609-7,Start date,Date,Other,ATTACH.REHAB.OT,date
+27610-5,Date.end,Date,Other,ATTACH.REHAB.OT,date
+27611-3,Date range,Cmplx,Other,ATTACH.REHAB.OT,date
+27613-9,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.OT,date
+27614-7,Date attending MD signed,TmStp,Other,ATTACH.REHAB.OT,date
+27615-4,Date rehabilitation professional signed,Date,Other,ATTACH.REHAB.OT,date
+27620-4,Estimated date of completion,Date,Other,ATTACH.REHAB.OT,date
+27621-2,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.OT,date
+27634-5,Author ID,ID,Other,ATTACH.REHAB.OT,identifier
+27636-0,Start date,Date,Other,ATTACH.REHAB.OT,date
+27637-8,End date,Date,Other,ATTACH.REHAB.OT,date
+27648-5,Start date,Date,Other,ATTACH.REHAB.PT,date
+27649-3,End date,Date,Other,ATTACH.REHAB.PT,date
+27661-8,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.PT,date
+27662-6,Date.start,Date,Other,ATTACH.REHAB.PT,date
+27666-7,Author name,Pn,Other,ATTACH.REHAB.PT,name
+27668-3,Signature date,TmStp,Other,ATTACH.REHAB.PT,date
+27671-7,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.PT,date
+27672-5,Start date,Date,Other,ATTACH.REHAB.PT,date
+27673-3,Date.end,Date,Other,ATTACH.REHAB.PT,date
+27674-1,Date range,Cmplx,Other,ATTACH.REHAB.PT,date
+27676-6,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.PT,date
+27677-4,Date attending MD signed,TmStp,Other,ATTACH.REHAB.PT,date
+27678-2,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.PT,date
+27683-2,Estimated date of completion,Date,Other,ATTACH.REHAB.PT,date
+27684-0,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.PT,date
+27697-2,Author ID,ID,Other,ATTACH.REHAB.PT,identifier
+27700-4,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.RT,date
+27701-2,Date.start,TmStp,Other,ATTACH.REHAB.RT,date
+27705-3,Author name,Pn,Other,ATTACH.REHAB.RT,name
+27707-9,Signature date,TmStp,Other,ATTACH.REHAB.RT,date
+27710-3,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.RT,date
+27711-1,Start date,Date,Other,ATTACH.REHAB.RT,date
+27712-9,Date.end,Date,Other,ATTACH.REHAB.RT,date
+27713-7,Date range,Cmplx,Other,ATTACH.REHAB.RT,date
+27715-2,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.RT,date
+27716-0,Date attending MD signed,TmStp,Other,ATTACH.REHAB.RT,date
+27717-8,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.RT,date
+27722-8,Estimated date of completion,Date,Other,ATTACH.REHAB.RT,date
+27723-6,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.RT,date
+27736-8,Author ID,ID,Other,ATTACH.REHAB.RT,identifier
+27738-4,Start date,Date,Other,ATTACH.REHAB.RT,date
+27739-2,End date,Date,Other,ATTACH.REHAB.RT,date
+27751-7,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.SOCIAL,date
+27752-5,Date.start,TmStp,Other,ATTACH.REHAB.SOCIAL,date
+27756-6,Author name,Pn,Other,ATTACH.REHAB.SOCIAL,name
+27758-2,Signature date,TmStp,Other,ATTACH.REHAB.SOCIAL,date
+27761-6,Date range (from_through) described by plan,Cmplx,Other,ATTACH.REHAB.SOCIAL,date
+27762-4,Start date,Date,Other,ATTACH.REHAB.SOCIAL,date
+27763-2,Date.end,Date,Other,ATTACH.REHAB.SOCIAL,date
+27764-0,Date range,Cmplx,Other,ATTACH.REHAB.SOCIAL,date
+27766-5,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.SOCIAL,date
+27767-3,Date attending MD signed,TmStp,Other,ATTACH.REHAB.SOCIAL,date
+27768-1,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.SOCIAL,date
+27773-1,Estimated date of completion,Date,Other,ATTACH.REHAB.SOCIAL,date
+27774-9,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.SOCIAL,date
+27787-1,Author ID,ID,Other,ATTACH.REHAB.SOCIAL,identifier
+27789-7,Start date,Date,Other,ATTACH.REHAB.SOCIAL,date
+27790-5,End date,Date,Other,ATTACH.REHAB.SOCIAL,date
+27801-0,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.ABUSE,date
+28775-5,Physician,ID,Other,EYE.GLASSES,identifier
+29163-3,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.SPEECH,date
+29164-1,Date start,Date,Other,ATTACH.REHAB.SPEECH,date
+29172-4,Date attending MD referred patient for,Date,Other,ATTACH.REHAB.SPEECH,date
+29173-2,Date attending MD signed,TmStp,Other,ATTACH.REHAB.SPEECH,date
+29175-7,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.SPEECH,date
+29179-9,Estimated date of completion,Date,Other,ATTACH.REHAB.SPEECH,date
+29180-7,Date of last plan of treatment certification,Date,Other,ATTACH.REHAB.SPEECH,date
+29188-0,Author ID,ID,Other,ATTACH.REHAB.SPEECH,identifier
+29189-8,Author name,Pn,Other,ATTACH.REHAB.SPEECH,name
+29191-4,Date end,Date,Other,ATTACH.REHAB.SPEECH,date
+29200-3,Signature date,TmStp,Other,ATTACH.REHAB.SPEECH,date
+29201-1,Start date,Date,Other,ATTACH.REHAB.SPEECH,date
+29203-7,Date range,Cmplx,Other,ATTACH.REHAB.SPEECH,date
+29204-5,End date,Date,Other,ATTACH.REHAB.SPEECH,date
+29205-2,Start date,Date,Other,ATTACH.REHAB.SPEECH,date
+29742-4,Date last dose,TmStp,Other,DRUGDOSE,date
+30573-0,Date of wound healing,Date,Other,CLIN,date
+30907-0,Date of next planned rehabilitation treatment,Cmplx,Other,ATTACH.REHAB.ABUSE,date
+30908-8,Next planned treatment start date,Date,Other,ATTACH.REHAB.ABUSE,date
+30909-6,Next planned treatment end date,Date,Other,ATTACH.REHAB.ABUSE,date
+30944-3,Date of vaccination temporary contraindication &or precaution expiration,Date,Patient,VACCIN,date
+30946-8,Date.vaccination contraindication &or precaution effective,Date,Patient,VACCIN,date
+30947-6,Date form completed,Date,Other,ADMIN,date
+30952-6,Date and time of vaccination,TmStp,Patient,VACCIN,date
+30953-4,Date and time of onset of vaccination adverse event,TmStp,Patient,VACCIN,date
+30976-5,Date received,TmStp,Other,VACCIN,date
+30980-7,Date vaccine due,Date,Patient,VACCIN,date
+30981-5,Earliest date to give,Date,Patient,VACCIN,date
+31035-9,Date of other vaccinations given within 4W prior to the date of vaccine causing adverse event,Date,Patient,VACCIN,date
+31211-6,Date of death,TmStp,Patient,TUMRRGT,date
+33067-0,Conception date,Date,Patient,OB.US,date
+33882-2,Collection date,Date,Other,SPEC,date
+34970-4,Date ultrasound,Date,Patient,MISC,date
+38201-0,Pain onset,TmStp,Patient,H&P.HX,date
+38884-3,Vendor serial number,ID,Other,DEVICES,number
+39161-5,Date next screen visit,Date,Patient,ATTACH.CPHS,date
+39255-5,Date previous screen visit,Date,Patient,ATTACH.CPHS,date
+39268-8,"Follow-up (referred to) provider &or specialist, name",Pn,Other,ATTACH.CPHS,name
+39270-4,"Follow-up (referred to) provider &or specialist, address",Addr,Other,ATTACH.CPHS,address
+39271-2,"Follow-up (referred to) provider &or specialist, phone",Tele,Other,ATTACH.CPHS,phone
+39276-1,"Follow-up (referred to) program, address",Addr,Other,ATTACH.CPHS,address
+39277-9,"Follow-up (referred to) program, phone",Tele,Other,ATTACH.CPHS,phone
+39281-1,"Responsible party, name",Pn,Other,ATTACH.CPHS,name
+39282-9,"Responsible party, home phone number",Tele,Other,ATTACH.CPHS,"number, phone"
+39283-7,"Responsible party, work number",Tele,Other,ATTACH.CPHS,number
+39285-2,Name,Pn,Other,ADMIN,name
+39289-4,"Follow-up (referred to) provider &or specialist, appointment date",Date,Other,ATTACH.CPHS,date
+39290-2,"Follow-up (referred to) program, appointment date",Date,Other,ATTACH.CPHS,date
+39808-1,Date 1st most definitive surgery Rx for,TmStp,Other,TUMRRGT,date
+39809-9,Date 1st systemic treatment,TmStp,Other,TUMRRGT,date
+41393-0,Collection date,TmStp,Other,SPEC,date
+41394-8,Collection date,TmStp,Other,SPEC,date
+41395-5,Collection date,TmStp,Other,SPEC,date
+41899-6,Vendor serial number,ID,Other,DEVICES,number
+41913-5,Vendor serial number,ID,Other,DEVICES,number
+41917-6,Vendor serial number,ID,Other,DEVICES,number
+41928-3,Vendor serial number,ID,Other,DEVICES,number
+41933-3,Vendor serial number,ID,Other,DEVICES,number
+41937-4,Vendor serial number,ID,Other,DEVICES,number
+41963-0,Vendor serial number,ID,Other,DEVICES,number
+41968-9,Vendor serial number,ID,Other,DEVICES,number
+41978-8,Vendor serial number,ID,Other,DEVICES,number
+42029-9,Date of conclusive diagnosis,TmStp,Other,TUMRRGT,date
+42031-5,Date of diagnosis of multiple tumors,TmStp,Other,TUMRRGT,date
+42062-0,County--current,Prid,Other,TUMRRGT,county
+42077-8,Phone number,Tele,Patient,ADMIN.PATIENT,"number, phone"
+42106-5,Archive facility identification number,ID,Other,ADMIN.ID,number
+42117-2,Date of surgical discharge,TmStp,Other,TUMRRGT,date
+42120-6,Date radiation ended,TmStp,Other,TUMRRGT,date
+42127-1,Name of follow-up contact,Pn,Patient,TUMRRGT,name
+42130-5,Latitude,Angle,Other,TUMRRGT,latitude
+42131-3,Longitude,Angle,Other,TUMRRGT,longitude
+42781-5,Surgical operation date,TmStp,Other,TUMRRGT,date
+43157-7,Vendor serial number,ID,Other,DEVICES,number
+44951-2,Physician NPI,ID,Provider,ADMIN.ID,identifier
+44952-0,Surgeon primary NPI,ID,Provider,ADMIN.ID,identifier
+44953-8,Physician follow up NPI,ID,Provider,ADMIN.ID,identifier
+44954-6,Physician managing NPI,ID,Provider,ADMIN.ID,identifier
+44955-3,Archive facility identification number NPI,ID,Other,ADMIN.FACILITY,number
+44956-1,Following registry NPI,ID,Other,ADMIN.ID,identifier
+44959-5,Hospital.reporting NPI,ID,Other,ADMIN.ID,identifier
+45234-2,Date eligible and selected to start HIV Rx,Date,Patient,ART,date
+45235-9,Date original clinic HIV Rx start,Date,Patient,ART,date
+45237-5,Date lost to HIV Rx follow-up,Date,Patient,ART,date
+45238-3,Date lost to HIV Rx therapy,Date,Patient,ART,date
+45240-9,Isoniazid therapy start date,Date,Patient,ART,date
+45242-5,Tuberculosis treatment start date,Date,Patient,ART,date
+45250-8,HIV confirmation facility,Addr,Facility,ART,address
+45253-2,HIV Rx prior clinic transferred from,Addr,Facility,ART,address
+45255-7,HIV Rx clinic transferred to,Addr,Facility,ART,address
+45257-3,Date dropped from HIV Rx,Date,Patient,ART,date
+45285-4,Date and time,TmStp,Other,DRUGDOSE,date
+45346-4,Date tick removed,Date,Other,MICRO,date
+45347-2,Date tick attached,Date,Other,MICRO,date
+45348-0,Date tick acquired,Date,Other,MICRO,date
+45351-4,Date of skin test,TmStp,Other,CHALSKIN,date
+45352-2,Date skin test interpreted,TmStp,Other,CHALSKIN,date
+45353-0,Date of analysis,TmStp,Other,MISC,date
+45354-8,Date next dose,Date,Patient,VACCIN,date
+45355-5,Date Rh immune globulin given,Date,Patient,BLDBK,date
+45376-1,Date of transfusion reaction,TmStp,Patient,BLDBK,date
+45392-8,First name,Pn,Patient,ADMIN.PATIENT,name
+45394-4,Last name,Pn,Patient,ADMIN.PATIENT,name
+45395-1,Name suffix,Pn,Patient,ADMIN.PATIENT,name
+45396-9,Social Security number,ID,Patient,ADMIN.PATIENT.ID,"number, social security, identifier"
+45397-7,Medicare or comparable number,ID,Patient,ADMIN.PATIENT.ID,number
+45398-5,State provider number,ID,Facility,ADMIN.FACILITY,number
+45399-3,Federal provider number,ID,Facility,SURVEY.MDS,number
+45400-9,Medicaid number,ID,Patient,ADMIN.PATIENT.ID,number
+45401-7,Postal code,Loc,Patient,ADMIN.PATIENT.DEMOG,postal
+45427-2,Date background information form completed,Date,Patient,SURVEY.MDS,date
+45453-8,Date of last day of MDS observation period,Date,Patient,SURVEY.MDS,date
+45455-3,Date of reentry to facility,Date,Patient,SURVEY.MDS,date
+45966-9,Social Security & Medicare numbers,-,Patient,PANEL.SURVEY.CMS,"number, social security"
+45967-7,Facility provider numbers,-,Facility,PANEL.SURVEY.MDS,number
+46106-1,Medical record number,ID,Patient,ADMIN.PATIENT.ID,"number, identifier"
+46250-7,Vaccination take-response date,Date,Patient,VACCIN,date
+46493-3,Medicaid provider number,ID,Other,SURVEY.OASIS,"number, age"
+46495-8,Branch number,ID,Other,SURVEY.CMS,"number, age"
+46496-6,Agency patient number,ID,Patient,SURVEY.CMS,"number, age"
+46497-4,Start of care date,Date,Patient,SURVEY.CMS,date
+46498-2,Resumption of care date,Date,Patient,SURVEY.CMS,date
+46501-3,Date assessment information completed,Date,Patient,SURVEY.CMS,date
+46503-9,Most recent inpatient discharge date,Date,Patient,SURVEY.CMS,date
+46581-5,Date of last home visit,Date,Patient,SURVEY.CMS,date
+46582-3,"Discharge, transfer, death date",Date,Patient,SURVEY.CMS,date
+46697-9,Date,Date,Patient,SURVEY.RFC,date
+47240-7,Date determined medically eligible to start HIV Rx,Date,Patient,ART,date
+47241-5,Date determined medically eligible and ready to start HIV Rx,Date,Patient,ART,date
+49070-6,Specimen drawn,TmStp,Other,SPEC,date
+49088-8,Sonographer name,Pn,Patient,OB.US,name
+49089-6,Sonographer,ID,Patient,ADMIN.ID,identifier
+49542-4,Date and time of pheresis procedure,TmStp,Patient,BLDBK,date
+49548-1,Date referral lab test sent,TmStp,Other,MISC,date
+49832-9,Specimen drawn^1st specimen,TmStp,Other,SPEC,date
+49833-7,Specimen drawn^2nd specimen,TmStp,Other,SPEC,date
+50786-3,Date of entry,TmStp,Patient,SURVEY.CMS,date
+51953-8,Collection date,TmStp,Other,SPEC,date
+51999-1,Time ambulance arrived at scene,TmStp,Other,ATTACH.AMB,date
+52000-7,Origination site latitude,Angle,Other,ATTACH.AMB,latitude
+52001-5,Origination site longitude,Angle,Other,ATTACH.AMB,longitude
+52002-3,Destination site latitude,Angle,Other,ATTACH.AMB,latitude
+52003-1,Destination site longitude,Angle,Other,ATTACH.AMB,longitude
+52010-6,Other patient name,Pn,Other,ATTACH.AMB,name
+52014-8,Receiving individual accepting responsibility for patient,ID,Other,ATTACH.AMB,identifier
+52023-9,Origination site name and address,Cmplx,Other,ATTACH.AMB,"address, name"
+52026-2,Destination site name & address,Cmplx,Other,ATTACH.AMB,"address, name"
+52069-2,Tax ID number - IRS form W9 attachment,Find,Patient,DOC.ADMIN,number
+52076-7,Date range,DateRange,Other,ATTACH.REHAB.ABUSE,date
+52077-5,Date range,DateRange,Other,ATTACH.REHAB.ABUSE,date
+52080-9,Referring person name,Pn,Other,ATTACH.REHAB.ABUSE,name
+52081-7,Referring person identifier,ID,Other,ATTACH.REHAB.ABUSE,identifier
+52082-5,Date patient referred for treatment,Date,Other,ATTACH.REHAB.ABUSE,date
+52088-2,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.ABUSE,date
+52090-8,Actual start of care date,Date,Other,ATTACH.REHAB.ABUSE,date
+52106-2,Date range of next planned treatment,DateRange,Other,ATTACH.REHAB.ABUSE,date
+52139-3,Date.onset or exacerbation,Date,Other,ATTACH.REHAB.PULM,date
+52140-1,Date range,DateRange,Other,ATTACH.REHAB.PULM,date
+52144-3,Author name,Pn,Other,ATTACH.REHAB.PULM,name
+52145-0,Author ID,ID,Other,ATTACH.REHAB.PULM,identifier
+52147-6,Date range,DateRange,Other,ATTACH.REHAB.PULM,date
+52151-8,Referring person name,Pn,Other,ATTACH.REHAB.PULM,name
+52152-6,Referring person identifier,ID,Other,ATTACH.REHAB.PULM,identifier
+52153-4,Date patient referred for treatment,Date,Other,ATTACH.REHAB.PULM,date
+52156-7,Date attending MD signed,TmStp,Other,ATTACH.REHAB.PULM,date
+52159-1,Date rehabilitation professional signed,TmStp,Other,ATTACH.REHAB.PULM,date
+52167-4,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.PULM,date
+52169-0,Actual start of care date,Date,Other,ATTACH.REHAB.PULM,date
+52189-8,Date range,DateRange,Other,ATTACH.REHAB.CARDIAC,date
+52190-6,Date range,DateRange,Other,ATTACH.REHAB.CARDIAC,date
+52193-0,Referring person name,Pn,Other,ATTACH.REHAB.CARDIAC,name
+52194-8,Referring person identifier,ID,Other,ATTACH.REHAB.CARDIAC,identifier
+52195-5,Date patient referred for treatment,Date,Other,ATTACH.REHAB.CARDIAC,date
+52200-3,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.CARDIAC,date
+52202-9,Actual start of care date,Date,Other,ATTACH.REHAB.CARDIAC,date
+52216-9,Date range,DateRange,Other,ATTACH.REHAB.SOCIAL,date
+52217-7,Date range,DateRange,Other,ATTACH.REHAB.SOCIAL,date
+52220-1,Referring person name,Pn,Other,ATTACH.REHAB.SOCIAL,name
+52221-9,Referring person identifier,ID,Other,ATTACH.REHAB.SOCIAL,identifier
+52222-7,Date patient referred for treatment,Date,Other,ATTACH.REHAB.SOCIAL,date
+52227-6,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.SOCIAL,date
+52229-2,Actual start of care date,Date,Other,ATTACH.REHAB.SOCIAL,date
+52243-3,Date range,DateRange,Other,ATTACH.REHAB.OT,date
+52246-6,Referring person name,Pn,Other,ATTACH.REHAB.OT,name
+52247-4,Referring person identifier,ID,Other,ATTACH.REHAB.OT,identifier
+52251-6,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.OT,date
+52253-2,Actual start of care date,Date,Other,ATTACH.REHAB.OT,date
+52266-4,Defined school year,DateRange,Other,ATTACH.REHAB.OT,date
+52269-8,Date patient referred for treatment,Date,Other,ATTACH.REHAB.OT,date
+52271-4,Date range,DateRange,Other,ATTACH.REHAB.PT,date
+52272-2,Date range,DateRange,Other,ATTACH.REHAB.PT,date
+52275-5,Referring person name,Pn,Other,ATTACH.REHAB.PT,name
+52276-3,Referring person identifier,ID,Other,ATTACH.REHAB.PT,identifier
+52277-1,Date patient referred for treatment,Date,Other,ATTACH.REHAB.PT,date
+52282-1,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.PT,date
+52284-7,Actual start of care date,Date,Other,ATTACH.REHAB.PT,date
+52297-9,Defined school year,DateRange,Other,ATTACH.REHAB.PT,date
+52301-9,Date range,DateRange,Other,ATTACH.REHAB.PSYCH,date
+52303-5,Date range,DateRange,Other,ATTACH.REHAB.PSYCH,date
+52306-8,Referring person name,Pn,Other,ATTACH.REHAB.PSYCH,name
+52307-6,Referring person identifier,ID,Other,ATTACH.REHAB.PSYCH,identifier
+52308-4,Date patient referred for treatment,Date,Other,ATTACH.REHAB.PSYCH,date
+52316-7,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.PSYCH,date
+52318-3,Actual start of care date,Date,Other,ATTACH.REHAB.PSYCH,date
+52333-2,Date range,DateRange,Other,ATTACH.REHAB.RT,date
+52334-0,Date range,DateRange,Other,ATTACH.REHAB.RT,date
+52337-3,Referring person name,Pn,Other,ATTACH.REHAB.RT,name
+52338-1,Referring person identifier,ID,Other,ATTACH.REHAB.RT,identifier
+52339-9,Date patient referred for treatment,Date,Other,ATTACH.REHAB.RT,date
+52344-9,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.RT,date
+52346-4,Actual start of care date,Date,Other,ATTACH.REHAB.RT,date
+52356-3,Date range,DateRange,Other,ATTACH.REHAB.NURS,date
+52357-1,Date range,DateRange,Other,ATTACH.REHAB.NURS,date
+52360-5,Referring person name,Pn,Other,ATTACH.REHAB.NURS,name
+52361-3,Referring person identifier,ID,Other,ATTACH.REHAB.NURS,identifier
+52362-1,Date patient referred for treatment,Date,Other,ATTACH.REHAB.NURS,date
+52367-0,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.NURS,date
+52369-6,Actual start of care date,Date,Other,ATTACH.REHAB.NURS,date
+52383-7,Date range,DateRange,Other,ATTACH.REHAB.SPEECH,date
+52384-5,Date range,DateRange,Other,ATTACH.REHAB.SPEECH,date
+52387-8,Referring person name,Pn,Other,ATTACH.REHAB.SPEECH,name
+52388-6,Referring person identifier,ID,Other,ATTACH.REHAB.SPEECH,identifier
+52389-4,Date patient referred for treatment,Date,Other,ATTACH.REHAB.SPEECH,date
+52394-4,Date range certifying the plan of care,DateRange,Other,ATTACH.REHAB.SPEECH,date
+52396-9,Actual start of care date,Date,Other,ATTACH.REHAB.SPEECH,date
+52409-0,Defined school year,DateRange,Other,ATTACH.REHAB.SPEECH,date
+52413-2,Date range,DateRange,Other,ATTACH.REHAB.OT,date
+52455-3,Admission date,TmStp,Patient,ADMIN,date
+52456-1,Assessment reference date,Date,Patient,SURVEY.CMS,date
+52458-7,Name,Pn,Provider,SURVEY.CARE,name
+52459-5,CMS certification number,ID,Provider,SURVEY.CARE,number
+52461-1,Middle name,Pn,Patient,ADMIN.PATIENT,name
+52462-9,Nickname,Pn,Patient,ADMIN.PATIENT,nickname
+52463-7,Patient Identification Number or Provider Account Number,ID,Patient,ADMIN.PATIENT.ID,number
+52525-3,Discharge date,TmStp,Patient,H&P.HX,date
+52526-1,Attending physician name,Pn,Provider,CLIN,name
+52531-1,Provider city,Loc,Provider,CLIN,city
+52539-4,Prior postal code,Loc,Patient,ADMIN.PATIENT.DEMOG,postal
+52584-0,Date of ulcer measurement,Date,Patient,SURVEY.CARE,date
+52796-0,Planned stop date,Date,Other,SURVEY.CARE,date
+52827-3,Facility unique identifier panel,-,Facility,PANEL.SURVEY.NMMDS,identifier
+52828-1,Federal provider name,ID,Facility,SURVEY.NMMDS,name
+52831-5,Postal code,Loc,Facility,ADMIN.FACILITY,postal
+52832-3,Survey reporting period start date,Date,Facility,SURVEY.NMMDS,date
+52833-1,Survey reporting period end date,Date,Facility,SURVEY.NMMDS,date
+53245-7,Driver license,Find,Other,DOC.ONTOLOGY,license
+53599-7,ZIP code of prior primary residence,Loc,Patient,SURVEY.MDS,zip
+53719-1,Date of death - Canada,TmStp,Patient,TUMRRGT,date
+54124-3,Birth date,Date,Other,SURVEY.USSGFHT,date
+54125-0,Name,Pn,Patient,ADMIN.PATIENT,name
+54138-3,Name,Pn,Other,SURVEY.USSGFHT,name
+54503-8,Legal name of patient,-,Patient,PANEL.SURVEY.CMS,name
+54504-6,Social Security and Medicare numbers,-,Patient,SURVEY.MDS,"number, social security"
+54581-4,Facility provider numbers,-,Facility,PANEL.ADMIN,number
+54592-1,Previous assessment reference date for significant correction,Date,Patient,SURVEY.CMS,date
+54593-9,Assessment reference date - observation end date,Date,Patient,PANEL.SURVEY.CMS,date
+54595-4,Start date of most recent Medicare stay,Date,Patient,SURVEY.CMS,date
+54596-2,End date of most recent Medicare stay,Date,Patient,SURVEY.CMS,date
+54883-4,Date of most recent routine pressure ulcer assessment,TmStp,Patient,SURVEY.MDS,date
+54888-3,Date of onset of pressure injuries onset in this facility - oldest or only stage 3,Date,Patient,SURVEY.MDS,date
+54889-1,Date of onset of pressure ulcers onset in this facility - newest stage 3,TmStp,Patient,SURVEY.MDS,date
+54891-7,Date of onset of pressure injuries onset in this facility - oldest or only stage 4,Date,Patient,SURVEY.MDS,date
+54892-5,Date of onset of pressure ulcers onset in this facility - newest stage 4,TmStp,Patient,SURVEY.MDS,date
+54948-5,Date of onset of pressure ulcers onset in this facility - oldest or only unstageable due to coverage of wound bed by slough &or eschar,TmStp,Patient,SURVEY.MDS,date
+54949-3,Date of onset of pressure ulcers onset in this facility - newest unstageable due to coverage of wound bed by slough &or eschar,TmStp,Patient,SURVEY.MDS,date
+55025-1,Start date of speech language pathology and audiology services,Date,Patient,SURVEY.CMS,date
+55026-9,End date of speech language pathology and audiology services,Date,Patient,SURVEY.CMS,date
+55027-7,Start date of occupational therapy,Date,Patient,SURVEY.CMS,date
+55028-5,End date of occupational therapy,Date,Patient,SURVEY.CMS,date
+55029-3,Start date of physical therapy,Date,Patient,SURVEY.CMS,date
+55030-1,End date of physical therapy,Date,Patient,SURVEY.CMS,date
+55031-9,Start date of respiratory therapy,Date,Patient,SURVEY.MDS,date
+55032-7,End date of respiratory therapy,Date,Patient,SURVEY.MDS,date
+55033-5,Start date of psychological therapy by any licensed mental health professional,TmStp,Patient,SURVEY.MDS,"date, license"
+55034-3,End date of psychological therapy by any licensed mental health professional,TmStp,Patient,SURVEY.MDS,"date, license"
+55037-6,Start date of recreational and music therapy,TmStp,Patient,SURVEY.MDS,date
+55038-4,End date of recreational and music therapy,TmStp,Patient,SURVEY.MDS,date
+55209-1,Date and time of most recent arrival in U.S.,TmStp,Patient,PUBLICHEALTH,date
+55218-2,Date of actual exposure to blood &or body fluid,Date,Patient,PUBLICHEALTH,date
+55257-0,Date of last Clostridium tetani immunization,Date,Patient,H&P.HX,date
+55282-8,Date symptoms of pregnancy first noted,Date,Patient,H&P.HX,date
+55400-6,Date of last eye examination,Date,Patient,CLIN,date
+56049-0,PhenX measure - current age,-,Patient,PANEL.PHENX,age
+56118-3,Proxy name,Pn,Other,PHENX,name
+56155-5,Date referral lab test results received,TmStp,Other,MISC,date
+56795-8,Account number,ID,Patient,ADMIN.PATIENT.ID,"number, identifier"
+56799-0,Address,Addr,Patient,ADMIN.PATIENT,address
+56800-6,Date and time ED consult request initiated,TmStp,Patient,ED,date
+56801-4,Date and time ED consult starts,TmStp,Patient,ED,date
+56802-2,Primary care provider,ID,Provider,ADMIN.ID,identifier
+56803-0,ED attending physician,ID,Provider,ADMIN.ID,identifier
+56804-8,ED nurse,ID,Provider,ADMIN.ID,identifier
+56805-5,ED accepting or admitting provider,ID,Provider,ADMIN.ID,identifier
+56806-3,ED transferring provider,ID,Provider,ADMIN.ID,identifier
+56807-1,ED transferring facility,ID,Facility,ADMIN.FACILITY,identifier
+56808-9,ED accepting or admitting facility,ID,Facility,ADMIN.FACILITY,identifier
+56809-7,ED tech,ID,Provider,ADMIN.ID,identifier
+56811-3,Primary care clinic or system,ID,Facility,ADMIN.FACILITY,identifier
+56812-1,Provider who accepted patient in transfer to another facility,ID,Provider,ADMIN.ID,identifier
+56855-0,Provider assuming ultimate responsibility for care for patient upon ED disposition,ID,Provider,ADMIN.ID,identifier
+56856-8,Provider assuming care for patient upon ED disposition,ID,Provider,ADMIN.ID,identifier
+56859-2,Date and time of ED departure,TmStp,Patient,ED,date
+56861-8,Name,Pn,Other,ED,name
+56862-6,Address,Addr,Other,ED,address
+56863-4,Phone number,Tele,Other,ADMIN,"number, phone"
+57060-6,Estimated date of delivery,Find,Patient,CLIN,date
+57063-0,Delivery date,Date,Patient,OB.US,date
+57064-8,Delivery date,Date,Patient,OB.US,date
+57065-5,Quickening date,Date,Patient,OB.US,date
+57066-3,Date fundal height reaches umbilicus,Date,Patient,OB.US,date
+57070-5,Date next clinic visit,Date,Patient,H&P.HX,date
+57201-6,Date of Physician-ordered Start of Care (Resumption of Care),Date,Patient,SURVEY.CMS,date
+57202-4,Date of Referral,Date,Patient,SURVEY.CMS,date
+58052-2,Date pressure injury first identified,Date,Other,SURVEY.CMS,date
+58123-1,Date of oldest stage 2 pressure injury,Date,Other,SURVEY.CMS,date
+58131-4,Date of influenza vaccination,Date,Patient,CLIN,date
+58195-9,Date of Care Area Assessment (CAA) information,Date,Patient,SURVEY.MDS,date
+58234-6,Date of trauma or procedure,Date,Patient,PHENX,date
+58236-1,Date of myocardial infarction,Date,Patient,PHENX,date
+58237-9,Name,ID,Other,PHENX,name
+58269-2,Date of first episode of atrial fibrillation,Date,Patient,PHENX,date
+58276-7,Ever had outpatient test(s) performed for deep vein thrombosis,TmStp,Patient,PHENX,date
+58278-3,Date of deep vein thrombosis diagnosis,Date,Patient,PHENX,date
+58284-1,Date of pulmonary embolus diagnosis,Date,Patient,PHENX,date
+58307-0,Date of onset of chest discomfort,Date,Patient,PHENX,date
+58734-5,Collection date,TmStp,Other,SPEC,date
+59509-0,Date case completed.COC,Date,Other,TUMRRGT,date
+59510-8,Date case initiated,Date,Other,TUMRRGT,date
+59777-3,Latest date to give immunization,Date,Patient,VACCIN,date
+59778-1,Date when overdue for immunization,Date,Patient,VACCIN,date
+59853-2,Pathology specimen collection date 1,TmStp,Other,TUMRRGT,date
+59854-0,Pathology specimen collection date 2,TmStp,Other,TUMRRGT,date
+59855-7,Pathology specimen collection date 3,TmStp,Other,TUMRRGT,date
+59856-5,Pathology specimen collection date 4,TmStp,Other,TUMRRGT,date
+59857-3,Pathology specimen collection date 5,TmStp,Other,TUMRRGT,date
+60431-4,Date of previous biopsy,Date,Patient,H&P.HX,date
+60432-2,Date of previous PAP smear,Date,Patient,H&P.HX,date
+61099-8,Collection date^3rd specimen,TmStp,Other,SPEC,date
+61100-4,Collection date^2nd specimen,TmStp,Other,SPEC,date
+62317-3,Date of last blood product transfusion,TmStp,Patient,H&P.HX,date
+62323-1,Post-discharge provider ID,ID,Provider,CHEM,identifier
+62324-9,Post-discharge provider name,Pn,Provider,CHEM,name
+62326-4,Post-discharge provider practice name,ID,Provider,CHEM,name
+62327-2,Post-discharge provider practice address,Addr,Provider,CHEM,address
+62328-0,Post-discharge provider practice phone number,Tele,Provider,ADMIN,"number, phone"
+62330-6,Birth hospital facility name,ID,Facility,ADMIN.FACILITY,name
+62331-4,Birth hospital facility address,Addr,Facility,ADMIN.FACILITY,address
+62332-2,Birth hospital facility phone number,Tele,Facility,ADMIN.FACILITY,"number, phone"
+63497-2,Current street number,Loc,Patient,PHENX,number
+63498-0,Current street name,Loc,Patient,PHENX,name
+63499-8,Current apartment number,Loc,Patient,PHENX,number
+63500-3,Current city,Loc,Patient,PHENX,city
+63502-9,Current zip code,Loc,Patient,PHENX,zip
+63726-4,From what date did you live in the residence,Date,Patient,ADMIN.PATIENT,date
+63727-2,To what date did you live in the residence,Date,Patient,ADMIN.PATIENT,date
+63728-0,"What is the residence address, street - crosstreets, city, state or landmark",Find,Patient,PHENX,"address, city"
+63758-7,What was the location of this company,Addr,Patient,PHENX,address
+63780-1,Who is the oldest or what is the first name of your next brother or sister,Find,Patient,PHENX,name
+63931-0,Date of diagnosis,Date,Patient,PHENX,date
+63936-9,Start date of treatment or therapy,Date,Patient,H&P.HX,date
+63939-3,End date of treatment or therapy,Date,Patient,H&P.HX,date
+63944-3,Date of cancer recurrence,Date,Patient,PHENX,date
+63963-3,Date of end of pregnancy,Date,Patient,PHENX,date
+63968-2,Date of major illness or surgery,Date,Patient,PHENX,date
+64010-2,Latitude for the residence,Angle,Patient,PHENX,latitude
+64011-0,Longitude for the residence,Angle,Patient,PHENX,longitude
+64297-5,Death certificate,Find,Other,DOC.ONTOLOGY,certificate
+64435-1,Medication time and date^pre exercise,TmStp,Patient,PHENX,date
+64557-2,When were your childs tonsils removed,TmStp,Patient,PHENX,date
+64583-8,Date your child has taken this medication,Date,Patient,PHENX,date
+64586-1,Date the sleep disorder started,Date,Patient,PHENX,date
+64589-5,"Date the psychological, psychiatric, emotional, or behavioral problem started",Date,Patient,PHENX,date
+64601-8,Date of review,Date,Patient,PHENX,date
+64604-2,Technician ID,ID,Patient,ADMIN,identifier
+64712-3,On what date did that pregnancy end,Date,Patient,PHENX,date
+64727-1,Date of birth or loss,TmStp,Patient,PHENX,date
+64773-5,When did your child receive this treatment for other eye or vision problems,TmStp,Patient,PHENX,date
+64786-7,When was your child first diagnosed as having an eye problem,TmStp,Patient,PHENX,date
+64787-5,When was your child first diagnosed as having amblyopia,TmStp,Patient,PHENX,date
+64788-3,When was your child first diagnosed as having strabismus,TmStp,Patient,PHENX,date
+64790-9,When did your child first have this type of operation,TmStp,Patient,PHENX,date
+64791-7,When did your child first start wearing an eye patch,TmStp,Patient,PHENX,date
+64869-1,City,Find,Patient,PHENX,city
+64879-0,Date when first prescribed,Date,Other,PHENX,date
+64881-6,Date stopped,Date,Patient,PHENX,date
+64889-9,When did you last have the strength of your glasses checked,TmStp,Patient,PHENX,date
+64891-5,When were you last able to do this,TmStp,Patient,PHENX,date
+64991-3,Date of observation,Date,Patient,PHENX,date
+65222-2,Symptom onset,TmStp,Patient,H&P.PX,date
+65647-0,City,Loc,Facility,ADMIN.FACILITY,city
+65648-8,Zip - post code,Loc,Facility,PHENX,zip
+65650-4,Email address,EmailAddr,Facility,ADMIN.FACILITY,"address, email"
+65651-2,Phone number,Tele,Facility,ADMIN.FACILITY,"number, phone"
+65652-0,Testing facility name,ID,Facility,ADMIN.FACILITY,name
+65667-8,When did your child receive this treatment for doctor reported vision problem,TmStp,Patient,PHENX,date
+65719-7,When did the first stroke occur,TmStp,Patient,PHENX,date
+65833-6,Address,Addr,Facility,SURVEY.ESRD,address
+65838-5,Date submitted,Date,Other,SURVEY.ESRD,date
+65840-1,Principal result interpreter phone number,Tele,Other,SURVEY.ESRD,"number, phone"
+65844-3,Date of observation,Date,Other,MISC,date
+66165-2,Last ate or drank anything other than plain water,TmStp,Patient,H&P.HX,date
+66167-8,When did you have coffee or tea with cream and sugar,TmStp,Patient,PHENX,date
+66169-4,"When did you have alcohol, such as beer, wine, or liquor",TmStp,Patient,PHENX,date
+66171-0,"When did you have gum, breath mints, lozenges, or cough drops, or other cough or cold remedies",TmStp,Patient,PHENX,date
+66173-6,"When did you have antacids, laxatives, or anti-diarrheals",TmStp,Patient,PHENX,date
+66183-5,When did you have dietary supplements such as vitamins and minerals,TmStp,Patient,PHENX,date
+66302-1,Participant ID,ID,Patient,ADMIN.PATIENT.ID,identifier
+66311-2,Date participant returned actigraph to clinic,Date,Patient,PHENX,date
+66395-5,Booster date,Date,Patient,PHENX,date
+66398-9,Trip start,TmStp,Patient,PHENX,date
+66399-7,Trip end,TmStp,Patient,PHENX,date
+66432-6,Date first Dx,Date,Other,PHENX,date
+66479-7,"If you were not born in USA, indicate as closely as possible the date you first arrived here",Date,Patient,PHENX,date
+66946-5,Data retrieval completed,TmStp,Patient,PHENX,date
+66947-3,Date last reaction,Date,Patient,PHENX,date
+67148-7,Adjudication date by MD fracture coordinator,Date,Patient,PHENX,date
+67152-9,Date abstracted,Date,Patient,PHENX,date
+67153-7,Abstractor ID,ID,Other,ADMIN.ID,identifier
+67154-5,Nosologist ID,ID,Other,ADMIN.ID,identifier
+67290-7,Date of complication,Date,Patient,PHENX,date
+67422-6,Name of your relative that have already participated in this investigation,Find,Patient,PHENX,name
+67517-3,Last oral intake,TmStp,Patient,NEMSIS,date
+67712-0,Center - CTR - ID number,ID,Facility,PHENX,number
+67713-8,Diagnosing provider,Addr,Provider,CLIN,address
+67714-6,Diagnosing provider phone number,Tele,Provider,CLIN,"number, phone"
+67723-7,Date of health-related event,Date,Patient,CLIN,date
+67782-3,Surgical operation date,Date,Patient,PHENX,date
+67878-9,Facility name,ID,Other,SURVEY.ESRD,name
+68330-0,CMS certification number - CCN,ID,Other,SURVEY.ESRD,number
+68333-4,Date return to dialysis after failed transplant,Date,Patient,SURVEY.ESRD,date
+68335-9,Self-dialysis training facility name,ID,Other,SURVEY.ESRD,name
+68339-1,Date self-dialysis training completion,Date,Patient,SURVEY.ESRD,date
+68340-9,Attending physician phone number,Tele,Provider,SURVEY.ESRD,"number, phone"
+68349-0,Date last dialysis treatment,Date,Patient,SURVEY.ESRD,date
+68351-6,Date most recent transplant,Date,Patient,SURVEY.ESRD,date
+68355-7,Date signed,TmStp,Other,SURVEY.ESRD,date
+68358-1,Date chronic dialysis began,Date,Patient,SURVEY.ESRD,date
+68362-3,Date self-dialysis training began,Date,Patient,SURVEY.ESRD,date
+68444-9,Date chronic dialysis began at current facility,Date,Patient,SURVEY.ESRD,date
+68445-6,Date transplant,Date,Patient,SURVEY.ESRD,date
+68446-4,Transplant facility name,ID,Facility,SURVEY.ESRD,name
+68447-2,Date transplant admission,TmStp,Patient,SURVEY.ESRD,date
+68490-2,Transplant preparation facility name,ID,Facility,SURVEY.ESRD,name
+68491-0,Self-dialysis training physician name,Pn,Provider,SURVEY.ESRD,name
+68492-8,Date last prenatal visit,Date,Patient,SURVEY.CDC,date
+68499-3,Date last live birth,Date,Patient,SURVEY.CDC,date
+68500-8,Date last other pregnancy outcome,Date,Patient,SURVEY.CDC,date
+68963-8,Collection date & time,TmStp,Other,SPEC,date
+68989-3,Performing laboratory,Addr,Facility,MISC,address
+68994-3,Performing laboratory name,ID,Facility,MISC,name
+68995-0,Person completing form name,Pn,Provider,SURVEY.ESRD,name
+68997-6,City,Loc,Patient,SURVEY.ESRD,city
+68998-4,U.S. standard certificate of live birth - 2003 revision,-,Patient,PANEL.SURVEY.CDC,certificate
+69044-6,Date first prenatal visit,Date,Patient,SURVEY.CDC,date
+69409-1,U.S. standard certificate of death - 2003 revision,-,Patient,PANEL.SURVEY.CDC,certificate
+69417-4,CMS certification number,ID,Facility,ADMIN.FACILITY,number
+69434-9,Location of death name,ID,Facility,SURVEY.CDC,name
+69435-6,Street address where death occurred if not facility,Addr,Facility,SURVEY.CDC,address
+69439-8,Death certifier,Addr,Provider,SURVEY.CDC,address
+69445-5,Injury date,Date,Patient,SURVEY.CDC,date
+69446-3,Injury date comment,Txt,Patient,SURVEY.CDC,date
+69454-7,Death date comment,Find,Patient,SURVEY.CDC,date
+69993-4,Vendor serial number,ID,Other,DEVICES,number
+70952-7,Date of peritoneal dialysis adequacy measurement,Date,Patient,SURVEY.ESRD,date
+71230-7,Birth certificate,Find,Other,DOC.ONTOLOGY,certificate
+71463-4,Date of infection onset,Date,Patient,SURVEY.ESRD,date
+71464-2,Date first prescribed,TmStp,Other,SURVEY.ESRD,date
+71465-9,Date prescription changed,TmStp,Other,SURVEY.ESRD,date
+71466-7,Date prescription stopped,TmStp,Other,SURVEY.ESRD,date
+71472-5,Date of blood culture,TmStp,Patient,SURVEY.ESRD,date
+71474-1,Date of infection hospitalization,Date,Patient,SURVEY.ESRD,date
+71479-0,Date access infection confirmed,Date,Patient,SURVEY.ESRD,date
+71503-7,Date opened,Date,Other,SURVEY.ESRD,date
+71504-5,Date closed,Date,Other,SURVEY.ESRD,date
+71505-2,Date changed ownership,Date,Other,SURVEY.ESRD,date
+71506-0,Date initially certified by medicare,Date,Other,SURVEY.ESRD,date
+71507-8,Fax number,Tele,Other,SURVEY.ESRD,"number, fax"
+71509-4,Phone number extension,Tele,Other,SURVEY.ESRD,"number, phone"
+71523-5,Date personnel record submitted,Date,Other,SURVEY.ESRD,date
+71526-8,Personnel employment name,Find,Other,SURVEY.ESRD,name
+71530-0,Business name,ID,Other,SURVEY.ESRD,name
+71534-2,Phone number,Tele,Other,SURVEY.ESRD,"number, phone"
+71540-9,Date personnel record submission,TmStp,Other,SURVEY.ESRD,date
+71723-1,Cell phone number,Tele,Other,ADMIN,"number, phone"
+71724-9,Home phone number,Tele,Other,ADMIN,"number, phone"
+71725-6,Business phone number extension,Tele,Other,ADMIN,"number, phone"
+71726-4,Business phone number,Tele,Other,ADMIN,"number, phone"
+71727-2,Fax number,Tele,Other,ADMIN,"number, fax"
+71729-8,Nine-digit postal code,Loc,Other,ADMIN,postal
+71730-6,Five-digit postal code,Loc,Other,ADMIN,postal
+71732-2,City,Addr,Other,ADMIN,city
+71736-3,Name prefix,Pn,Other,ADMIN,name
+71737-1,Name suffix,Pn,Other,ADMIN,name
+71739-7,First name,Pn,Other,ADMIN,name
+71740-5,Last name,Pn,Other,ADMIN,name
+71742-1,Date most recent record submitted,Date,Facility,SURVEY.ESRD,date
+71750-4,Primary contact phone number extension,Tele,Facility,SURVEY.ESRD,"number, phone"
+71751-2,Primary contact phone number,Tele,Facility,SURVEY.ESRD,"number, phone"
+71752-0,Primary contact first name,Pn,Facility,SURVEY.ESRD,name
+71753-8,Primary contact last name,Pn,Facility,SURVEY.ESRD,name
+71766-0,Primary contact email,EmailAddr,Facility,SURVEY.ESRD,email
+72048-2,Date arteriovenous fistula usable,Date,Patient,SURVEY.ESRD,date
+72049-0,Date dialysis session,Date,Patient,SURVEY.ESRD,date
+72051-6,Date catheter removal,Date,Patient,SURVEY.ESRD,date
+72052-4,Date catheter placement,Date,Patient,SURVEY.ESRD,date
+72053-2,Date arteriovenous fistula creation,Date,Patient,SURVEY.ESRD,date
+72054-0,Date change of dialysis access type,Date,Patient,SURVEY.ESRD,date
+72074-8,Date last formal post dialysis weight,Date,Patient,SURVEY.ESRD,date
+72078-9,Date of echocardiogram,Date,Patient,SURVEY.ESRD,date
+72081-3,Date of sodium education,Date,Patient,SURVEY.ESRD,date
+72187-8,Date tetanus vaccine given,Date,Patient,SURVEY.GNHLTH,date
+72486-4,Laboratory director name,Pn,Provider,MISC,name
+73770-0,Name of facility infant transferred to,ID,Facility,SURVEY.CDC,name
+73777-5,Name of facility mother transferred from,ID,Facility,SURVEY.CDC,name
+74010-0,Date quit tobacco smoking,Date,Patient,H&P.HX,date
+74014-2,Last drank alcohol,TmStp,Patient,H&P.HX,date
+74015-9,Date recorded,TmStp,Patient,H&P.HX,date
+74024-1,Family member identifier,ID,Other,ADMIN.ID,identifier
+74025-8,Mother identifier,ID,Other,ADMIN.ID,identifier
+74026-6,Father identifier,ID,Other,ADMIN.ID,identifier
+74548-9,Reporter phone number,Tele,Other,SURVEY.AHRQ,"number, phone"
+74555-4,Event discovery date & time,TmStp,Other,SURVEY.AHRQ,date
+74695-8,Nurse name,Pn,Provider,CLIN,name
+74715-4,Vendor serial number,ID,Other,DEVICES,number
+75092-7,Birth date,Date,Other,PATH,date
+75167-7,Date of most recent non-treponemal test,Date,Other,SURVEY.CDC,date
+75170-1,Date first non-treponemal test,Date,Other,SURVEY.CDC,date
+75173-5,Date of first treponemal test,Date,Other,SURVEY.CDC,date
+75176-8,Date of most recent treponemal test,Date,Other,SURVEY.CDC,date
+75182-6,Date of first syphilis treatment during pregnancy,Date,Other,SURVEY.CDC,date
+75188-3,Date of first reactive non-treponemal test,Date,Patient,SURVEY.CDC,date
+75191-7,Date of first reactive treponemal test,Date,Patient,SURVEY.CDC,date
+75200-6,Date first prenatal visit,Date,Other,SURVEY.CDC,date
+75203-0,Date last menstrual period^pre delivery,Date,Other,SURVEY.CDC,date
+75329-3,Date of intrauterine device insertion,Date,Patient,CLIN,date
+75360-8,Date of supracervical hysterectomy,Date,Patient,CLIN,date
+75361-6,Date of total hysterectomy,Date,Patient,CLIN,date
+75437-4,Note,Find,Other,DOC.ONTOLOGY,license
+75519-9,Encounter identifier,ID,Patient,SURVEY.PCORNET,identifier
+75524-9,Facility identifier,ID,Facility,SURVEY.PCORNET,identifier
+75526-4,Internal identifier,ID,Provider,SURVEY.PCORNET,identifier
+75711-2,Date of autopsy,Date,Patient,MISC,date
+76417-5,First Name,Pn,Provider,ADMIN,name
+76419-1,Last name,Pn,Provider,ADMIN,name
+76423-3,Date of first visit,Date,Patient,H&P.HX,date
+76425-8,Date of onset,Date,Patient,H&P.HX,date
+76426-6,Start date for episode of care,Date,Patient,APTA,date
+76427-4,Visit date,Date,Patient,H&P.HX,date
+76429-0,Physical therapy discharge date,Date,Patient,H&P.HX,date
+76435-7,Identifier,ID,Patient,ADMIN.PATIENT.ID,identifier
+76458-9,Email address,EmailAddr,Patient,ADMIN.PATIENT,"address, email"
+76469-6,Name,ID,Other,ADMIN,name
+76695-6,Postal code,Loc,Other,ADMIN,zip
+76696-4,Name,ID,Facility,ADMIN.FACILITY,"name, identifier"
+77970-2,Date of initial report,TmStp,Other,SURVEY.CDC,date
+77972-8,Earliest date reported to county,TmStp,Other,SURVEY.CDC,"date, county"
+77973-6,Earliest date reported to state,TmStp,Other,SURVEY.CDC,date
+77975-1,Earliest date of diagnosis,Date,Patient,H&P.HX,date
+77976-9,Illness or injury end date,Date,Patient,H&P.HX,date
+79216-8,Date education program assigned,Date,Patient,CLIN,date
+79217-6,Date education program started,Date,Patient,CLIN,date
+79218-4,Date education program completed,Date,Patient,CLIN,date
+79219-2,Date education program expires,Date,Patient,CLIN,date
+80265-2,Date of last bowel movement,Date,Other,H&P.PX,date
+80331-2,Date and time of last void,TmStp,Other,H&P.PX,date
+80395-7,Date of gestational age estimate,Date,Patient,CLIN,"age, date"
+80406-2,Date and time of initial encounter,TmStp,Patient,H&P.HX,date
+80410-4,Date and time of transfer departure,TmStp,Patient,ED,date
+80427-8,Employer name,ID,Patient,H&P.HX,"name, identifier"
+80428-6,Past employer name,ID,Patient,H&P.HX,"name, identifier"
+80429-4,Employer address,Addr,Patient,ADMIN.PATIENT,address
+80430-2,Past employer address,Addr,Patient,ADMIN.PATIENT,address
+80431-0,Employer city,Loc,Patient,ADMIN.PATIENT,city
+80432-8,Past employer city,Loc,Patient,ADMIN.PATIENT,city
+80616-6,Date and time pronounced dead,TmStp,Patient,SURVEY.CDC,"date, certificate"
+80903-8,Birth certificate number,ID,Patient,SURVEY.CDC,certificate
+80907-9,Death registration date,Date,Patient,SURVEY.CDC,date
+80909-5,Father's last name,Pn,Other,SURVEY.CDC,name
+80911-1,Death pronouncer,ExtendedID,Provider,SURVEY.CDC,identifier
+80989-7,Date of procedure,Date,Patient,CLIN,date
+80992-1,Date and time of surgery,TmStp,Patient,CLIN,date
+80993-9,Date and time of first balloon inflation,TmStp,Other,CARD.PROC,date
+81266-9,Date of fever onset,Date,Patient,H&P.HX,date
+81268-5,Date of rash onset,Date,Patient,H&P.HX,date
+81954-0,Date of death,Date,Patient,ADMIN.PATIENT,date
+81956-5,Date and time of death,TmStp,Patient,ADMIN.PATIENT,date
+82157-9,Birth date,Date,Provider,ADMIN,date
+82749-3,Date diagnosis confirmed,Date,Other,H&P.HX,date
+82752-7,Date travel started,Date,Patient,H&P.HX,date
+82756-8,Date of blood donation,Date,Patient,H&P.HX,date
+82758-4,Date of previous diagnosis,Date,Patient,H&P.HX,date
+82760-0,Date of splenectomy,Date,Patient,H&P.HX,date
+82765-9,Date prescription dispensed,Date,Other,MEDS,date
+82772-5,Lab result date reported,Date,Patient,LABORDERS,date
+82778-2,Trial enrollment date,Date,Patient,CLINTRIAL,date
+82779-0,Trial participation end date,Date,Patient,CLINTRIAL,date
+82785-7,Lab order date,Date,Patient,LABORDERS,date
+82787-3,Participant identifier,ID,Patient,CLINTRIAL,identifier
+82789-9,Trial early withdrawal date,Date,Patient,CLINTRIAL,date
+84188-2,Note,Find,Other,DOC.ONTOLOGY,license
+84189-0,Note,Find,Other,DOC.ONTOLOGY,license
+85585-8,Date of condition onset,Date,Patient,SURVEY.GNHLTH,date
+85674-0,Date of serology test^pre pregnancy,Date,Other,H&P.HX,date
+85692-2,Year previously tested for rubella virus immunity,Date,Patient,VACCIN,date
+85695-5,Prior condition onset year,Date,Patient,H&P.HX,date
+85704-5,Year of previous delivery in the U.S.,Date,Other,H&P.HX,date
+85706-0,Date of exposure to individual with confirmed illness,Date,Other,H&P.HX,date
+85729-2,Date of fever onset,Date,Other,H&P.HX,date
+85732-6,Date of rash onset,Date,Other,H&P.HX,date
+85734-2,Date of last evaluation,Date,Patient,H&P.HX,date
+85931-4,Date of salivary gland swelling onset,Date,Patient,H&P.HX,date
+85932-2,Date of cough onset,Date,Patient,H&P.HX,date
+8598-5,Comparison.study,TmStp,Other,EKG.ATOM,date
+86345-6,U.S. standard certificate of death - recommended 2003 revision set,-,Other,PANEL.DOC,certificate
+86347-2,U.S. standard certificate of live birth - recommended 2003 revision set,-,Other,PANEL.DOC,certificate
+86470-2,Most recent inpatient discharge date in the last 14D,Date,Patient,SURVEY.CMS,date
+8649-6,Hospital discharge date,TmStp,Patient,H&P.HX,date
+8656-1,Hospital admission date,TmStp,Patient,H&P.HX,date
+8665-2,Date last menstrual period,Date,Patient,H&P.HX,date
+86771-3,Date therapy regimen resumed,Date,Patient,SURVEY.CMS,date
+86948-7,Date treatment or therapy started,Date,Patient,H&P.HX,date
+87216-8,Date on existing record to be modified or inactivated,-,Patient,PANEL.SURVEY.CMS,date
+87219-2,Attesting individual first name,Pn,Provider,SURVEY.CMS,name
+87220-0,Attesting individual last name,Pn,Provider,SURVEY.CMS,name
+87222-6,Attestation date,Date,Patient,SURVEY.CMS,date
+87226-7,Legal name of patient - first and last,-,Patient,PANEL.ADMIN,name
+8723-9,Surgical operation note date,TmStp,Patient,H&P.SURG PROC,date
+87286-1,Birth attendant,ExtendedID,Provider,ADMIN,identifier
+87287-9,Birth certifier,ExtendedID,Provider,ADMIN,identifier
+87288-7,Date of birth certification,Date,Patient,ADMIN.PATIENT,date
+87289-5,Date of fetal death registration,Date,Other,ADMIN,date
+87290-3,Date of Social Security Number request,Date,Patient,SURVEY.CDC,"number, social security, date"
+87297-8,Birth registration date,Date,Patient,SURVEY.CDC,date
+87510-4,Date of retirement,Date,Patient,H&P.HX,date
+87511-2,Combat zone &or hazardous duty work dates,DateRange,Patient,H&P.HX,date
+87720-9,Postal code,Loc,Provider,ADMIN,postal
+87721-7,County of residence,Loc,Patient,ADMIN.PATIENT.DEMOG,county
+88030-2,Date quit smokeless tobacco,Date,Patient,H&P.HX,date
+88062-5,Chemotherapy infusion stop date,Date,Patient,IO_IN.INFUS,date
+88063-3,Chemotherapy infusion start date,Date,Patient,IO_IN.INFUS,date
+88072-4,Dispatch center,ID,Other,TRAUMA,identifier
+88088-0,EMS transport destination name,ID,Facility,H&P.HX,"name, identifier"
+88298-5,Date of last attempted gradual dose reduction,Date,Patient,SURVEY.CMS,date
+88300-9,Date physician documented GDR as clinically contraindicated,Date,Patient,SURVEY.CMS,date
+88374-4,Chemotherapy infusion start & stop date and time panel,-,Patient,PANEL.IO,date
+89008-7,Station name,ID,Other,TRAUMA,"name, identifier"
+89010-3,EMS physician name,Pn,Provider,TRAUMA,name
+89011-1,EMS assistant name,Pn,Provider,TRAUMA,name
+89058-2,Email address,EmailAddr,Other,ADMIN,"address, email"
+89060-8,Phone number,Tele,Other,ADMIN,"number, phone"
+89068-1,Date aspirin discontinued,Date,Patient,H&P.HX,date
+89202-6,County,Loc,Facility,ADMIN.FACILITY,county
+89550-8,Middle name,Pn,Provider,ADMIN,name
+89601-9,Proof of encounter certificate,Find,Other,DOC.ONTOLOGY,certificate
+90052-2,Address,Addr,Other,ADMIN,address
+90053-0,Phone number,Tele,Other,ADMIN,"number, phone"
+90054-8,Email address,EmailAddr,Other,ADMIN,"address, email"
+90057-1,Contact name,Pn,Other,ADMIN,name
+90946-5,Date of laboratory phone call to provider to communicate test result,Date,Patient,ADMIN.PATIENT,"phone, date"
+91008-3,Date and time of deaths assessment,TmStp,Other,PUBLICHEALTH,date
+91022-4,Date and time of risk assessment,TmStp,Other,PUBLICHEALTH,date
+91103-2,Date next report due,TmStp,Other,DOC.MISC,date
+91381-4,Date medication started,Date,Patient,MEDS,date
+91382-2,Date medication stopped,Date,Patient,MEDS,date
+91559-5,Date of arrival at travel destination,Date,Patient,H&P.HX,date
+91560-3,Date of departure from travel destination,Date,Patient,H&P.HX,date
+91583-5,Date and time of public health emergency,TmStp,Other,ADMIN,date
+91584-3,Date and time rumor record was released,TmStp,Other,PUBLICHEALTH,date
+91696-5,Response team name,ID,Other,ADMIN,name
+91697-3,Name,Pn,Other,ADMIN,name
+91702-1,Shelter name,ID,Facility,ADMIN.FACILITY,"name, identifier"
+91703-9,Shelter address,Addr,Facility,ADMIN.FACILITY,address
+91714-6,Date of interview,Date,Patient,ADMIN,date
+91877-1,Date and time report was received,TmStp,Other,DOC.MISC,date
+91880-5,Date and time of risk assessment meeting,TmStp,Other,ADMIN,date
+91892-0,Address,Addr,Other,ADMIN,address
+91893-8,Email address,EmailAddr,Other,ADMIN,"address, email"
+91894-6,Phone number,Tele,Other,ADMIN,"number, phone"
+92009-0,Birth date,Date,Other,ADMIN,date
+92028-0,Supervisor name,Pn,Other,ADMIN,name
+92029-8,Supervisor email address,EmailAddr,Other,ADMIN,"address, email"
+92030-6,Supervisor address,Addr,Other,ADMIN,address
+92032-2,Supervisor phone number,Tele,Other,ADMIN,"number, phone"
+92045-4,Name,Pn,Other,ADMIN,name
+93275-6,Date of most lethal suicide attempt,Date,Patient,SURVEY.CSSRS,date
+93301-0,Date of initial or first suicide attempt,Date,Patient,SURVEY.CSSRS,date
+93302-8,Date of most recent suicide attempt,Date,Patient,SURVEY.CSSRS,date
+93857-1,Date and time of obstetric delivery,TmStp,Patient,OBGYN,date
+94130-2,Body disposition facility name,ID,Facility,ADMIN.FACILITY,"name, identifier"
+94132-8,Funeral facility name,ID,Facility,ADMIN.FACILITY,"name, identifier"
+94135-1,Funeral service licensee identifier,ID,Facility,ADMIN.FACILITY,"identifier, license"
+94459-5,Date treatment prescribed,Date,Patient,H&P.HX,date
+94648-3,Date of case confirmation,Date,Other,PUBLICHEALTH,date
+94652-5,Known exposure date,Date,Patient,H&P.HX,date
+94664-0,Anticipated discharge date,Date,Patient,H&P.HX,date
+95366-1,Date of first positive specimen collection,Date,Patient,SPEC,date
+95367-9,Intensive care unit admission date,Date,Patient,H&P.HX,date
+95368-7,Intensive care unit discharge date,Date,Patient,H&P.HX,date
+95382-8,Date and time of symptom resolution,TmStp,Patient,CLIN,date
+95386-9,Date and time of most recent contact with confirmed case,Date,Patient,H&P.PX,date
+95727-4,Name,Pn,Other,ADMIN,name
+95728-2,Address,Addr,Other,ADMIN,address
+95730-8,Surviving spouse name,Pn,Patient,ADMIN,name
+95731-6,Maiden name,Pn,Other,ADMIN,name
+95884-3,Data collected,Date,Other,PUBLICHEALTH,date
+95895-9,Start date,Date,Other,PUBLICHEALTH,date
+96676-2,Employer phone number,Tele,Patient,ADMIN.PATIENT,"number, phone"
+96677-0,Address,Addr,Other,ADMIN,address
+97499-8,Proof of COVID-19 recovery certificate,Find,Other,DOC.ADMIN,certificate
+97500-3,Proof of COVID-19 immunization or negative status certificate,Find,Other,DOC.ADMIN,certificate
+97845-2,Name panel,-,Other,PANEL.ADMIN,name
+97846-0,Name use,Find,Other,ADMIN,name
+97847-8,Last name,Pn,Other,ADMIN,name
+97848-6,First name,Pn,Other,ADMIN,name
+97849-4,Name prefix,Pn,Other,ADMIN,name
+97850-2,Name suffix,Pn,Other,ADMIN,name
+9851-7,Vendor serial number,ID,Other,DEVICES,number
+9854-1,Vendor serial number,ID,Other,DEVICES,number
+9858-2,Vendor serial number,ID,Other,DEVICES,number
+9865-7,Vendor serial number,ID,Other,DEVICES,number
+99350-1,Date of first infection onset,Date,Patient,SURVEY.COVID,date
+99951-6,Postal code,Loc,Other,ADMIN,postal
