@@ -4,4 +4,4 @@ Provisioning clinical data for research frequently necessitates the suppression 
 
 
 -------------------------------------
-The table in this repo has three columns. First column is the LOINC Number, Rule is technically the keyword that helped us to get to that code and finally the Identifier Category shows if it is a Provider, Patient, organization and other related code.
+The table in this repo has seven columns: LOINC_NUM, LONG_COMMON_NAME, PROPERTY, CLASS, Keyword, Category, and CLASSTYPE. 
