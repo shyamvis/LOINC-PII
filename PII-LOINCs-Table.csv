@@ -637,7 +637,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 55282-8,Date symptoms of pregnancy first noted,Date,H&P.HX,date,Patient,2
 55400-6,Date of last eye examination,Date,CLIN,date,Patient,2
 56049-0,Deprecated PhenX measure - current age,-,PANEL.PHENX,age,Patient,2
-56050-8,Deprecated PhenX measure - ethnicity,-,PANEL.PHENX,,Patient,2
 56118-3,Proxy's name,Pn,PHENX,name,Other,2
 56155-5,Date referral lab test results received in unspecified time Referral lab test,TmStp,MISC,date,Other,1
 56794-1,Internal identifier,ID,ADMIN.PATIENT.ID,identifier,Patient,2
@@ -706,7 +705,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 61099-8,Collection date of Stool--3rd specimen,TmStp,SPEC,date,Other,1
 61100-4,Collection date of Stool--2nd specimen,TmStp,SPEC,date,Other,1
 62293-6,PhenX - current age protocol 010101,-,PANEL.PHENX,age,Patient,2
-62299-3,PhenX - ethnicity protocol 010501,-,PANEL.PHENX,,Patient,2
 62317-3,Date of last blood product transfusion,TmStp,H&P.HX,date,Patient,2
 62323-1,Post-discharge provider ID [Identifier],ID,CHEM,identifier,Provider,1
 62324-9,Post-discharge provider name in Provider,Pn,CHEM,name,Provider,1
@@ -907,7 +905,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 69476-0,Responding unit arrived with the patient at the destination or transfer point [Date and time] Vehicle,TmStp,NEMSIS,date,Other,2
 69477-8,Unit was back in service and available for response [Date and time] Vehicle,TmStp,NEMSIS,date,Other,2
 69750-8,EMS unit GPS latitude Vehicle --at dispatch,Angle,NEMSIS,latitude,Other,2
-69919-9,"Race, ethnicity, sex, primary language, disability - Health and Human Services (HHS) panel [HHS.ACA Section 4302]",-,PANEL.SURVEY.HHS,,Patient,4
 69993-4,Positive airway pressure device Vendor serial number,ID,DEVICES,number,Other,2
 70158-1,Date sections completed Provider,TmStp,SURVEY.CMS,date,Provider,4
 70952-7,Date of peritoneal dialysis adequacy measurement [ESRD],Date,SURVEY.ESRD,date,Patient,4
@@ -1013,7 +1010,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 75549-6,Performing laboratory phone number,Tele,ADMIN.FACILITY,"number, phone",Facility,2
 75711-2,Date of autopsy,Date,MISC,date,Patient,1
 75794-8,Deprecated Assessment reference date Set [MDSv3],-,PANEL.SURVEY.MDS,date,Patient,4
-76362-3,Race or ethnicity panel [NMMDS],-,PANEL.SURVEY.NMMDS,,Other,4
 76365-6,Age category panel [NMMDS],-,PANEL.SURVEY.NMMDS,age,Other,4
 76417-5,Provider First name,Pn,ADMIN,name,Provider,2
 76419-1,Provider Last name,Pn,ADMIN,name,Provider,2
@@ -1122,8 +1118,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 86598-0,Influenza season [DateRange],DateRange,VACCIN,date,Other,2
 8665-2,Last menstrual period start date,Date,H&P.HX,date,Patient,2
 86771-3,Date therapy regimen resumed during assessment period [CMS Assessment],Date,SURVEY.CMS,date,Patient,4
-86800-0,Coded race and ethnicity - recommended CDA R1 sections,-,PANEL.DOC,,Other,2
-86805-9,Race and ethnicity information Document,Find,DOC.MISC,,Patient,2
 86948-7,Deprecated Date treatment or therapy started,Date,H&P.HX,date,Patient,2
 87216-8,Date on existing record to be modified or inactivated during assessment period [CMS Assessment],-,PANEL.SURVEY.CMS,date,Patient,4
 87219-2,Attesting individual first name during assessment period [CMS Assessment] Provider,Pn,SURVEY.CMS,name,Provider,4
@@ -1260,7 +1254,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 94132-8,Funeral facility name [Identifier],ID,ADMIN.FACILITY,"name, identifier",Facility,2
 94133-6,Funeral facility address,Addr,ADMIN.FACILITY,address,Facility,2
 94135-1,Funeral service licensee identifier Facility,ID,ADMIN.FACILITY,"identifier, license",Facility,2
-94158-3,PhenX - ethnicity protocol 010502,-,PANEL.PHENX,,Patient,2
 94459-5,Date treatment prescribed,Date,H&P.HX,date,Patient,2
 94648-3,Date contact confirmed as a case,Date,PUBLICHEALTH,date,Other,2
 94649-1,Health department identifier,ID,ADMIN.FACILITY,identifier,Other,2
@@ -1292,13 +1285,6 @@ LOINC_NUM,LONG_COMMON_NAME,PROPERTY,CLASS,Keyword,Category,CLASSTYPE
 96676-2,Employer phone number,Tele,ADMIN.PATIENT,"number, phone",Patient,2
 96677-0,School Address,Addr,ADMIN,address,Other,2
 96679-6,School Identifier assigning authority,ID,ADMIN.ID,identifier,Other,2
-96832-1,Due to the coronavirus I have been cyberbullied because of my race/ethnicity [CRBS],Find,SURVEY.COVID,,Patient,4
-96833-9,Since the coronavirus I have seen a lot more cyberbullying of people of my race/ethnicity [CRBS],Find,SURVEY.COVID,,Patient,4
-96876-8,People of my race/ethnicity are more likely to lose their job because of the coronavirus [CRBS],Find,SURVEY.COVID,,Patient,4
-96877-6,I worry about people thinking I have the coronavirus simply because of my race/ethnicity [CRBS],Find,SURVEY.COVID,,Patient,4
-96879-2,People of my race/ethnicity are more likely to get the coronavirus [CRBS],Find,SURVEY.COVID,,Patient,4
-96880-0,People of my race/ethnicity will not receive coronavirus healthcare as good as the care received by other groups [CRBS],Find,SURVEY.COVID,,Patient,4
-96881-8,Negative social media posts against people of my race/ethnicity have increased because of the coronavirus [CRBS],Find,SURVEY.COVID,,Patient,4
 97208-3,Shipping date,Date,ADMIN,date,Other,2
 97209-1,Shipment tracking number [Identifier],ID,ADMIN,"number, identifier",Other,2
 97499-8,Proof of COVID-19 recovery certificate,Find,DOC.ADMIN,certificate,Other,2
